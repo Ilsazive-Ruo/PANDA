@@ -44,10 +44,8 @@ def load_gdata(g_file, d_file):
 
 
 def collate_graph_pairs(data):
-    # 从批次中提取图对
-    g1_list, g2_list = zip(*data)  # zip 解压批次
+    g1_list, g2_list = zip(*data)
 
-    # 使用 DGL 的 batch 函数将多个图合并成一个图
     batched_g1 = dgl.batch(g1_list)  # 合并图 1
     batched_g2 = dgl.batch(g2_list)  # 合并图 2
 
@@ -60,7 +58,7 @@ if __name__ == '__main__':
 
     # 打开并加载 JSON 文件
     with open(file_path, 'r', encoding='utf-8') as file:
-        content = file.readlines()  # 读取文件内容
+        content = file.readlines()
         print(content[0])
         print(re.split('[":]', content[0]))
 
@@ -133,9 +131,9 @@ if __name__ == '__main__':
     f = 0
     for row in pred:
 
-        max_value = max(row)  # 找到行的最大值
-        max_index = row.index(max_value)  # 获取最大值的索引
-        labels.append([gpn[f][0], gpn[f][1], max_index])  # 将索引添加到列表
+        max_value = max(row)
+        max_index = row.index(max_value)
+        labels.append([gpn[f][0], gpn[f][1], max_index])
         f += 1
 
     # labels = np.array(labels).reshape(-1, 1)

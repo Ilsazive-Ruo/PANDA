@@ -20,17 +20,6 @@ class MyDataset(Dataset):
         return len(self.label)
 
 
-class HSDataset(Dataset):
-    def __init__(self, graph_pair):
-        self.graph_pair = graph_pair
-
-    def __getitem__(self, item):
-        return self.graph_pair[item][0], self.graph_pair[item][1]
-
-    def __len__(self):
-        return len(self.graph_pair)
-
-
 class FSADataset(Dataset):
     def __init__(self, graph_pair, label, MPs):
         self.graph_pair = graph_pair
@@ -116,9 +105,9 @@ from torch import nn
 class GlobalAttentionLayer(nn.Module):
     def __init__(self, in_feats, out_feats):
         super(GlobalAttentionLayer, self).__init__()
-        self.W = nn.Linear(in_feats, out_feats)  # 节点特征变换
-        self.attn_w = nn.Parameter(torch.Tensor(out_feats * 2, 1))  # 注意力权重
-        self.attn_b = nn.Parameter(torch.Tensor(1))  # 偏置项
+        self.W = nn.Linear(in_feats, out_feats)
+        self.attn_w = nn.Parameter(torch.Tensor(out_feats * 2, 1))
+        self.attn_b = nn.Parameter(torch.Tensor(1))
         self.reset_parameters()
 
     def reset_parameters(self):
@@ -128,19 +117,14 @@ class GlobalAttentionLayer(nn.Module):
 
     def forward(self, g, features):
         # print('features', features.shape)
-        # 1. 线性变换节点特征
         transformed_features = self.W(features)
         # print(transformed_features.size())
 
-        # 2. 计算每条边的注意力系数
-        # 获取图的边信息，分别是源节点和目标节点
         src, dst = g.edges()
 
-        # 对源节点和目标节点的特征进行计算
-        src_features = transformed_features[src]  # 源节点的特征
-        dst_features = transformed_features[dst]  # 目标节点的特征
+        src_features = transformed_features[src]
+        dst_features = transformed_features[dst]
 
-        # 计算每对源节点和目标节点之间的注意力得分
         attention_scores = torch.cat([src_features, dst_features], dim=-1)
         # print('attention_scores.shape:', attention_scores.shape)
         # print(self.attn_w.shape)
@@ -148,23 +132,19 @@ class GlobalAttentionLayer(nn.Module):
         # print('attention_scores.shape:', attention_scores.shape)
         attention_scores += self.attn_b
 
-        # 3. 使用 LeakyReLU 激活函数
         attention_scores = F.leaky_relu(attention_scores, negative_slope=0.2)
 
-        # 4. 计算归一化的注意力系数 (edge_softmax)
-        attention_scores = edge_softmax(g, attention_scores)  # 归一化注意力系数
+        attention_scores = edge_softmax(g, attention_scores)
 
-        # 5. 将注意力系数作为边的特征传递
         g.edata['attention'] = attention_scores
-        # print(f'Number of nodes: {g.num_nodes()}')  # 打印节点数
+        # print(f'Number of nodes: {g.num_nodes()}')
         # print(f'Number of edges: {g.num_edges()}')
         # print('attention shape:', g.edata['attention'].shape)
 
-        # 6. 聚合邻居信息（按注意力加权）
-        g.update_all(message_func=dgl.function.u_mul_e('h', 'attention', 'm'),  # 按照注意力加权
-                     reduce_func=dgl.function.sum('m', 'h'))  # 聚合邻居信息
+        g.update_all(message_func=dgl.function.u_mul_e('h', 'attention', 'm'),
+                     reduce_func=dgl.function.sum('m', 'h'))
 
-        # 7. 返回加权后的节点特征
+        # 返回加权后的节点特征
         return g.ndata['h']
 
 
@@ -172,28 +152,23 @@ class AttentionFusion(nn.Module):
     def __init__(self, input_dim):
         super(AttentionFusion, self).__init__()
 
-        # 查询、键、值的线性变换
-        self.query = nn.Linear(input_dim, input_dim)  # 生成查询向量
-        self.key = nn.Linear(input_dim, input_dim)  # 生成键向量
-        self.value = nn.Linear(input_dim, input_dim)  # 生成值向量
+        self.query = nn.Linear(input_dim, input_dim)
+        self.key = nn.Linear(input_dim, input_dim)
+        self.value = nn.Linear(input_dim, input_dim)
 
     def forward(self, f1, f2):
         Q1 = self.query(f1)  # (batch_size, D)
         K2 = self.key(f2)  # (batch_size, D)
         V2 = self.value(f2)  # (batch_size, D)
 
-        # 计算注意力权重
         attn_scores = torch.matmul(Q1, K2.transpose(-2, -1))
         attn_weights = F.softmax(attn_scores, dim=-1)
 
-        # 加权求和得到融合特征
         fused_f2 = torch.matmul(attn_weights, V2)  # (batch_size, 1, D)
         fused_f1 = torch.matmul(attn_weights.transpose(-2, -1), self.value(f1))  # (batch_size, 1, D)
 
-        # 合并两组加权特征
-        fused_features = fused_f1 + fused_f2  # 合并后得到的特征
+        fused_features = fused_f1 + fused_f2
 
-        # 扁平化并通过全连接层输出预测关系
         fused_features = fused_features.view(fused_features.size(0), -1)
 
         return fused_features
@@ -221,7 +196,7 @@ class Predictor(nn.Module):
 
 
 # GAT with Global Attention (Three GAT layers followed by Three Global Attention layers)
-class ARCHIT(nn.Module):
+class PANDA(nn.Module):
     def __init__(self, in_features, edge_dim, hidden_features, out_features, heads=1, dropout=0.1, alpha=0.2):
         super(ARCHIT, self).__init__()
 
@@ -286,8 +261,8 @@ class SYN_NC(nn.Module):
     def __init__(self, node_size, edge_size, hidden_size, num_heads=1):
         super(SYN_NC, self).__init__()
 
-        self.archit1 = ARCHIT(node_size, edge_size, hidden_size, node_size, num_heads)
-        self.archit2 = ARCHIT(node_size, edge_size, hidden_size, node_size, num_heads)
+        self.archit1 = PANDA(node_size, edge_size, hidden_size, node_size, num_heads)
+        self.archit2 = PANDA(node_size, edge_size, hidden_size, node_size, num_heads)
         # self.transformer_layers = nn.TransformerEncoderLayer(embed_size, embed_size)
         self.fusion_layer = AttentionFusion(node_size)
         self.predictor = Predictor(node_size, hidden_size, output_size=4)
@@ -312,7 +287,6 @@ class FeatureExtractor(nn.Module):
         self.model = model
         self.layer_name = layer_name
         self.features = None
-        # 在指定层注册钩子
         self.hook = dict()
         def hook_fn(module, input, output):
             self.features = output
@@ -332,8 +306,8 @@ class SA(nn.Module):
 
     def forward(self, g1, g2):
         features, _ = self.model(g1, g2)
-        features = features.view(features.size(0), -1)  # 扁平化特征
-        output = self.fc(features)  # MLP 层
+        features = features.view(features.size(0), -1)
+        output = self.fc(features)
         return output
 
     def predict_prob(self, g1, g2):
@@ -350,8 +324,8 @@ class FSA(nn.Module):
     def forward(self, g1, g2, MP):
         features, _ = self.model(g1, g2)
         features = torch.cat((features, MP), dim=1)
-        features = features.view(features.size(0), -1)  # 扁平化特征
-        output = self.fc(features)  # MLP 层
+        features = features.view(features.size(0), -1)
+        output = self.fc(features)
         return output
 
     def predict_prob(self, g1, g2, MP):

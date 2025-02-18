@@ -1,0 +1,2083 @@
+API,excipient,label,prop
+5_Fluorouracil,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+5_Fluorouracil,Alizarin_Red_S,0,1
+5_Fluorouracil,Allura Red AC,0,1
+5_Fluorouracil,Ampicillin,1,0.287726723
+5_Fluorouracil,Betaine,1,0.083555018
+5_Fluorouracil,BETANIN,1,0.103688029
+5_Fluorouracil,Brilliant_blue_G,1,0.092019347
+5_Fluorouracil,Caffeic acid,1,0.246886336
+5_Fluorouracil,Capecitabine,1,0.097279323
+5_Fluorouracil,Carmin,1,0.247551391
+5_Fluorouracil,Chlorogenic acid,1,0.144860943
+5_Fluorouracil,Citric_acid,0,1
+5_Fluorouracil,Congo_red,0,1
+5_Fluorouracil,D_glucose,1,0.047793229
+5_Fluorouracil,D(-)-Tartaric acid,1,0.20958283
+5_Fluorouracil,Dopamine hydrochloride,1,0.268923821
+5_Fluorouracil,EGCG,1,0.040356711
+5_Fluorouracil,Gallic_acid,1,0.107466747
+5_Fluorouracil,Glutathione,0,1
+5_Fluorouracil,Glycerol,1,0.150785973
+5_Fluorouracil,Glycyrrhizic_acid,0,1
+5_Fluorouracil,L_Ascorbic_acid,1,0.176662636
+5_Fluorouracil,L_Leucine,1,0.098881499
+5_Fluorouracil,Lamivudine,1,0.224183797
+5_Fluorouracil,Meglumine,1,0.251088271
+5_Fluorouracil,Metformin hydrochloride,1,0.078748489
+5_Fluorouracil,Naproxen_sodium,0,1
+5_Fluorouracil,Nicotinic_acid,0,1
+5_Fluorouracil,Potassium_sorbate,0,1
+5_Fluorouracil,Procyanidin,0,1
+5_Fluorouracil,SAFFLOWER YELLOW,1,0.078476421
+5_Fluorouracil,Salidroside,0,1
+5_Fluorouracil,Sorbitol,1,0.154050786
+5_Fluorouracil,Sucrose,0,1
+5_Fluorouracil,Tannic_acid,1,0.112243047
+5_Fluorouracil,Tartrazine,1,0.16780532
+5_Fluorouracil,Taurine,1,0.119891173
+5_Fluorouracil,Triethyl_citrate,1,0.171795647
+5_Fluorouracil,Vanillin,1,0.203355502
+5_Fluorouracil,Xylitol,1,0.14643289
+Aprepitant,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Aprepitant,Alizarin_Red_S,1,0.050950089
+Aprepitant,Allura Red AC,0,1
+Aprepitant,Ampicillin,0,1
+Aprepitant,Betaine,0,1
+Aprepitant,BETANIN,0,1
+Aprepitant,Brilliant_blue_G,1,0.041322523
+Aprepitant,Caffeic acid,0,1
+Aprepitant,Capecitabine,0,1
+Aprepitant,Carmin,0,1
+Aprepitant,Chlorogenic acid,0,1
+Aprepitant,Citric_acid,0,1
+Aprepitant,Congo_red,0,1
+Aprepitant,D_glucose,0,1
+Aprepitant,D(-)-Tartaric acid,0,1
+Aprepitant,Dopamine hydrochloride,0,1
+Aprepitant,EGCG,0,1
+Aprepitant,Evans_Blue,0,1
+Aprepitant,Gallic_acid,1,0.059766912
+Aprepitant,Glutathione,0,1
+Aprepitant,Glycerol,0,1
+Aprepitant,Glycyrrhizic_acid,1,0.028705346
+Aprepitant,L_Ascorbic_acid,1,0.037547504
+Aprepitant,L_Leucine,0,1
+Aprepitant,Lamivudine,0,1
+Aprepitant,Meglumine,0,1
+Aprepitant,Metformin hydrochloride,0,1
+Aprepitant,Methylene_Blue_trihydrate,0,1
+Aprepitant,Naproxen_sodium,0,1
+Aprepitant,Nicotinic_acid,1,0.035469977
+Aprepitant,Potassium_sorbate,0,1
+Aprepitant,Procyanidin,1,0.083025082
+Aprepitant,SAFFLOWER YELLOW,0,1
+Aprepitant,Salidroside,0,1
+Aprepitant,Sorbitol,0,1
+Aprepitant,Sucrose,0,1
+Aprepitant,Tannic_acid,0,1
+Aprepitant,Tartrazine,0,1
+Aprepitant,Taurine,0,1
+Aprepitant,Triethyl_citrate,0,1
+Aprepitant,Vanillin,0,1
+Aprepitant,Xylitol,0,1
+Artesunate,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.354671089
+Artesunate,Alizarin_Red_S,1,0.392979547
+Artesunate,Allura Red AC,0,1
+Artesunate,Ampicillin,1,0.344555003
+Artesunate,Betaine,1,0.320287452
+Artesunate,BETANIN,1,0.175290216
+Artesunate,Brilliant_blue_G,1,0.364842454
+Artesunate,Caffeic acid,0,1
+Artesunate,Capecitabine,1,0.17042565
+Artesunate,Carmin,0,1
+Artesunate,Chlorogenic acid,0,1
+Artesunate,Citric_acid,1,0.358651189
+Artesunate,Congo_red,1,0.107020453
+Artesunate,D_glucose,1,0.146821448
+Artesunate,D(-)-Tartaric acid,1,0.327031509
+Artesunate,Dopamine hydrochloride,1,0.256274185
+Artesunate,EGCG,1,0.136428966
+Artesunate,Evans_Blue,1,0.007672747
+Artesunate,Gallic_acid,1,0.266003317
+Artesunate,Glutathione,1,0.345163074
+Artesunate,Glycerol,1,0.55002764
+Artesunate,Glycyrrhizic_acid,0,1
+Artesunate,L_Ascorbic_acid,1,0.121614151
+Artesunate,L_Leucine,1,0.183858485
+Artesunate,Lamivudine,0,1
+Artesunate,Meglumine,0,1
+Artesunate,Metformin hydrochloride,1,0.446876727
+Artesunate,Naproxen_sodium,0,1
+Artesunate,Nicotinic_acid,1,0.112548369
+Artesunate,Potassium_sorbate,0,1
+Artesunate,Procyanidin,0,1
+Artesunate,SAFFLOWER YELLOW,1,0.388114981
+Artesunate,Salidroside,1,0.173079049
+Artesunate,Sorbitol,1,0.398286346
+Artesunate,Sucrose,0,1
+Artesunate,Tannic_acid,0,1
+Artesunate,Tartrazine,1,0.530348259
+Artesunate,Taurine,1,0.551630735
+Artesunate,Triethyl_citrate,1,0.277169707
+Artesunate,Vanillin,0,1
+Artesunate,Xylitol,0,1
+Berberine,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Berberine,Alizarin_Red_S,0,1
+Berberine,Allura Red AC,1,0.708282209
+Berberine,Ampicillin,0,1
+Berberine,Betaine,0,1
+Berberine,BETANIN,0,1
+Berberine,Brilliant_blue_G,1,0.504294479
+Berberine,Caffeic acid,0,0.903374233
+Berberine,Capecitabine,1,0.745705521
+Berberine,Carmin,1,0.637730061
+Berberine,Chlorogenic acid,0,1
+Berberine,Citric_acid,0,0.883435583
+Berberine,Congo_red,0,1
+Berberine,D_glucose,0,0.960429448
+Berberine,D(-)-Tartaric acid,0,0.91303681
+Berberine,Dopamine hydrochloride,0,0.864723926
+Berberine,EGCG,1,0.266257669
+Berberine,Gallic_acid,0,1
+Berberine,Glutathione,0,1
+Berberine,Glycerol,0,1
+Berberine,Glycyrrhizic_acid,0,0.849079755
+Berberine,L_Ascorbic_acid,0,0.83404908
+Berberine,L_Leucine,0,0.884509202
+Berberine,Lamivudine,0,1
+Berberine,Meglumine,1,0.154601227
+Berberine,Metformin hydrochloride,0,1
+Berberine,Naproxen_sodium,0,1
+Berberine,Nicotinic_acid,0,0.780674847
+Berberine,Potassium_sorbate,0,1
+Berberine,Procyanidin,1,0.145107362
+Berberine,SAFFLOWER YELLOW,0,1
+Berberine,Salidroside,0,1
+Berberine,Sorbitol,0,0.961042945
+Berberine,Sucrose,0,1
+Berberine,Tannic_acid,1,0.098834356
+Berberine,Tartrazine,0,1
+Berberine,Taurine,0,0.760122699
+Berberine,Triethyl_citrate,0,0.95291411
+Berberine,Vanillin,0,0.946779141
+Berberine,Xylitol,0,0.958742331
+Beta_carotene,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Beta_carotene,Alizarin_Red_S,0,1
+Beta_carotene,Allura Red AC,0,1
+Beta_carotene,Ampicillin,0,1
+Beta_carotene,Betaine,0,1
+Beta_carotene,BETANIN,0,1
+Beta_carotene,Brilliant_blue_G,0,1
+Beta_carotene,Caffeic acid,0,1
+Beta_carotene,Capecitabine,0,1
+Beta_carotene,Carmin,0,1
+Beta_carotene,Chlorogenic acid,0,1
+Beta_carotene,Citric_acid,0,1
+Beta_carotene,Congo_red,0,1
+Beta_carotene,D_glucose,0,1
+Beta_carotene,D(-)-Tartaric acid,0,1
+Beta_carotene,Dopamine hydrochloride,0,1
+Beta_carotene,EGCG,0,1
+Beta_carotene,Evans_Blue,0,1
+Beta_carotene,Gallic_acid,0,1
+Beta_carotene,Glutathione,0,1
+Beta_carotene,Glycerol,0,1
+Beta_carotene,Glycyrrhizic_acid,0,1
+Beta_carotene,L_Ascorbic_acid,0,1
+Beta_carotene,L_Leucine,0,1
+Beta_carotene,Lamivudine,0,1
+Beta_carotene,Meglumine,0,1
+Beta_carotene,Metformin hydrochloride,0,1
+Beta_carotene,Methylene_Blue_trihydrate,0,1
+Beta_carotene,Naproxen_sodium,0,1
+Beta_carotene,Nicotinic_acid,0,1
+Beta_carotene,Potassium_sorbate,0,1
+Beta_carotene,Procyanidin,0,1
+Beta_carotene,SAFFLOWER YELLOW,0,1
+Beta_carotene,Salidroside,0,1
+Beta_carotene,Sorbitol,0,1
+Beta_carotene,Sucrose,0,1
+Beta_carotene,Tannic_acid,0,1
+Beta_carotene,Tartrazine,0,1
+Beta_carotene,Taurine,0,1
+Beta_carotene,Triethyl_citrate,0,1
+Beta_carotene,Vanillin,0,1
+Beta_carotene,Xylitol,0,1
+Baicalein,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Baicalein,Alizarin_Red_S,1,0.304635762
+Baicalein,Allura Red AC,0,1
+Baicalein,Ampicillin,0,1
+Baicalein,Betaine,0,1
+Baicalein,BETANIN,0,1
+Baicalein,Brilliant_blue_G,1,0.058634743
+Baicalein,Caffeic acid,0,1
+Baicalein,Capecitabine,0,1
+Baicalein,Carmin,0,1
+Baicalein,Chlorogenic acid,0,1
+Baicalein,Citric_acid,0,1
+Baicalein,Congo_red,1,0.124808966
+Baicalein,D_glucose,0,1
+Baicalein,D(-)-Tartaric acid,0,1
+Baicalein,Dopamine hydrochloride,0,1
+Baicalein,EGCG,0,1
+Baicalein,Evans_Blue,1,0.10397351
+Baicalein,Gallic_acid,0,1
+Baicalein,Glutathione,0,1
+Baicalein,Glycerol,0,1
+Baicalein,Glycyrrhizic_acid,1,0.300916964
+Baicalein,L_Ascorbic_acid,0,1
+Baicalein,L_Leucine,0,1
+Baicalein,Lamivudine,0,1
+Baicalein,Meglumine,1,0.015374427
+Baicalein,Metformin hydrochloride,0,1
+Baicalein,Methylene_Blue_trihydrate,0,1
+Baicalein,Naproxen_sodium,0,1
+Baicalein,Nicotinic_acid,0,1
+Baicalein,Potassium_sorbate,0,1
+Baicalein,Procyanidin,1,0.122822211
+Baicalein,SAFFLOWER YELLOW,0,1
+Baicalein,Salidroside,0,1
+Baicalein,Sorbitol,0,1
+Baicalein,Sucrose,0,1
+Baicalein,Tannic_acid,0,1
+Baicalein,Tartrazine,0,1
+Baicalein,Taurine,0,1
+Baicalein,Triethyl_citrate,0,1
+Baicalein,Vanillin,0,1
+Baicalein,Xylitol,0,1
+Baicalin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Baicalin,Alizarin_Red_S,0,1
+Baicalin,Allura Red AC,1,0.574579222
+Baicalin,Ampicillin,0,1
+Baicalin,Betaine,0,1
+Baicalin,BETANIN,1,0.338653511
+Baicalin,Brilliant_blue_G,1,0.387986071
+Baicalin,Caffeic acid,0,1
+Baicalin,Capecitabine,1,0.413987232
+Baicalin,Carmin,0,1
+Baicalin,Chlorogenic acid,0,1
+Baicalin,Citric_acid,0,1
+Baicalin,Congo_red,1,0.028572258
+Baicalin,D_glucose,1,0.12362159
+Baicalin,D(-)-Tartaric acid,0,1
+Baicalin,Dopamine hydrochloride,0,1
+Baicalin,EGCG,1,0.164190366
+Baicalin,Evans_Blue,1,0.263784098
+Baicalin,Gallic_acid,1,0.27225769
+Baicalin,Glutathione,0,1
+Baicalin,Glycerol,0,1
+Baicalin,Glycyrrhizic_acid,0,1
+Baicalin,L_Ascorbic_acid,1,0.370110273
+Baicalin,L_Leucine,1,0.326755659
+Baicalin,Lamivudine,0,1
+Baicalin,Meglumine,0,1
+Baicalin,Metformin hydrochloride,0,1
+Baicalin,Methylene_Blue_trihydrate,0,1
+Baicalin,Naproxen_sodium,0,1
+Baicalin,Nicotinic_acid,1,0.449274521
+Baicalin,Potassium_sorbate,0,1
+Baicalin,Procyanidin,0,1
+Baicalin,SAFFLOWER YELLOW,1,0.166627974
+Baicalin,Salidroside,1,0.37295415
+Baicalin,Sorbitol,0,1
+Baicalin,Sucrose,0,1
+Baicalin,Tannic_acid,1,0.245269878
+Baicalin,Tartrazine,0,1
+Baicalin,Taurine,0,1
+Baicalin,Triethyl_citrate,0,1
+Baicalin,Vanillin,0,1
+Baicalin,Xylitol,0,1
+Budesonide,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.146576227
+Budesonide,Alizarin_Red_S,1,0.527196382
+Budesonide,Allura Red AC,1,0.203552972
+Budesonide,Ampicillin,1,0.162919897
+Budesonide,Betaine,1,0.215310078
+Budesonide,BETANIN,1,0.129844961
+Budesonide,Brilliant_blue_G,1,0.103294574
+Budesonide,Caffeic acid,1,0.386175711
+Budesonide,Capecitabine,1,0.145090439
+Budesonide,Carmin,1,0.313501292
+Budesonide,Chlorogenic acid,1,0.416731266
+Budesonide,Citric_acid,0,1
+Budesonide,Congo_red,1,0.31621447
+Budesonide,D_glucose,1,0.100581395
+Budesonide,D(-)-Tartaric acid,0,1
+Budesonide,Dopamine hydrochloride,0,1
+Budesonide,EGCG,1,0.125968992
+Budesonide,Evans_Blue,1,0.223966408
+Budesonide,Gallic_acid,1,0.174224806
+Budesonide,Glutathione,0,1
+Budesonide,Glycerol,1,0.295671835
+Budesonide,Glycyrrhizic_acid,0,1
+Budesonide,L_Ascorbic_acid,1,0.213113695
+Budesonide,L_Leucine,1,0.092571059
+Budesonide,Lamivudine,1,0.595930233
+Budesonide,Meglumine,1,0.113113695
+Budesonide,Metformin hydrochloride,0,1
+Budesonide,Naproxen_sodium,1,0.402002584
+Budesonide,Nicotinic_acid,1,0.153294574
+Budesonide,Potassium_sorbate,0,1
+Budesonide,Procyanidin,0,1
+Budesonide,SAFFLOWER YELLOW,1,0.244379845
+Budesonide,Salidroside,1,0.158139535
+Budesonide,Sorbitol,1,0.299224806
+Budesonide,Sucrose,1,0.245413437
+Budesonide,Tannic_acid,0,1
+Budesonide,Tartrazine,1,0.577583979
+Budesonide,Taurine,1,0.328100775
+Budesonide,Triethyl_citrate,0,1
+Budesonide,Vanillin,0,1
+Budesonide,Xylitol,1,0.23255814
+Cholic_acid,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.274536647
+Cholic_acid,Alizarin_Red_S,0,1
+Cholic_acid,Allura Red AC,0,1
+Cholic_acid,Ampicillin,0,1
+Cholic_acid,Betaine,1,0.198083404
+Cholic_acid,BETANIN,1,0.523694187
+Cholic_acid,Brilliant_blue_G,1,0.179338669
+Cholic_acid,Caffeic acid,1,0.360046335
+Cholic_acid,Capecitabine,1,0.362889638
+Cholic_acid,Carmin,0,1
+Cholic_acid,Chlorogenic acid,1,0.406171019
+Cholic_acid,Citric_acid,0,1
+Cholic_acid,Congo_red,1,0.542228307
+Cholic_acid,D_glucose,0,1
+Cholic_acid,D(-)-Tartaric acid,0,1
+Cholic_acid,Dopamine hydrochloride,0,1
+Cholic_acid,EGCG,1,0.244839933
+Cholic_acid,Evans_Blue,1,0.132898062
+Cholic_acid,Gallic_acid,1,0.37963353
+Cholic_acid,Glutathione,1,0.307813816
+Cholic_acid,Glycerol,0,1
+Cholic_acid,Glycyrrhizic_acid,0,1
+Cholic_acid,L_Ascorbic_acid,1,0.238942713
+Cholic_acid,L_Leucine,1,0.179970514
+Cholic_acid,Lamivudine,0,0.807392586
+Cholic_acid,Meglumine,1,0.481571188
+Cholic_acid,Metformin hydrochloride,0,1
+Cholic_acid,Naproxen_sodium,0,1
+Cholic_acid,Nicotinic_acid,1,0.138163437
+Cholic_acid,Potassium_sorbate,0,1
+Cholic_acid,Procyanidin,1,0.376158382
+Cholic_acid,SAFFLOWER YELLOW,1,0.321609099
+Cholic_acid,Salidroside,1,0.320977254
+Cholic_acid,Sorbitol,0,1
+Cholic_acid,Sucrose,0,1
+Cholic_acid,Tannic_acid,0,1
+Cholic_acid,Tartrazine,0,1
+Cholic_acid,Taurine,0,0.898904802
+Cholic_acid,Triethyl_citrate,0,1
+Cholic_acid,Vanillin,0,0.934288121
+Cholic_acid,Xylitol,1,0.73525695
+Candesartan_cilexetil,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Candesartan_cilexetil,Alizarin_Red_S,0,0.981830417
+Candesartan_cilexetil,Allura Red AC,0,0.907806191
+Candesartan_cilexetil,Ampicillin,0,0.97039031
+Candesartan_cilexetil,Betaine,0,1
+Candesartan_cilexetil,BETANIN,0,0.882907133
+Candesartan_cilexetil,Brilliant_blue_G,0,0.831090175
+Candesartan_cilexetil,Caffeic acid,0,0.944818304
+Candesartan_cilexetil,Capecitabine,0,0.944145357
+Candesartan_cilexetil,Carmin,0,0.841184388
+Candesartan_cilexetil,Chlorogenic acid,0,1
+Candesartan_cilexetil,Citric_acid,0,1
+Candesartan_cilexetil,Congo_red,1,0.693808883
+Candesartan_cilexetil,D_glucose,0,0.911843876
+Candesartan_cilexetil,D(-)-Tartaric acid,0,1
+Candesartan_cilexetil,Dopamine hydrochloride,0,1
+Candesartan_cilexetil,EGCG,0,0.83781965
+Candesartan_cilexetil,Evans_Blue,0,1
+Candesartan_cilexetil,Gallic_acid,0,0.752355316
+Candesartan_cilexetil,Glutathione,0,0.97846568
+Candesartan_cilexetil,Glycerol,0,0.981830417
+Candesartan_cilexetil,Glycyrrhizic_acid,0,0.768506057
+Candesartan_cilexetil,L_Ascorbic_acid,0,0.860699865
+Candesartan_cilexetil,L_Leucine,0,0.913189771
+Candesartan_cilexetil,Lamivudine,0,0.924629879
+Candesartan_cilexetil,Meglumine,1,0.726783311
+Candesartan_cilexetil,Metformin hydrochloride,0,0.930686406
+Candesartan_cilexetil,Methylene_Blue_trihydrate,0,1
+Candesartan_cilexetil,Naproxen_sodium,0,0.861372813
+Candesartan_cilexetil,Nicotinic_acid,0,0.80820996
+Candesartan_cilexetil,Potassium_sorbate,0,0.834454913
+Candesartan_cilexetil,Procyanidin,0,0.771197847
+Candesartan_cilexetil,SAFFLOWER YELLOW,1,0.730148048
+Candesartan_cilexetil,Salidroside,0,0.870794078
+Candesartan_cilexetil,Sorbitol,0,1
+Candesartan_cilexetil,Sucrose,0,0.954239569
+Candesartan_cilexetil,Tannic_acid,0,1
+Candesartan_cilexetil,Tartrazine,0,0.84858681
+Candesartan_cilexetil,Taurine,0,1
+Candesartan_cilexetil,Triethyl_citrate,0,1
+Candesartan_cilexetil,Vanillin,0,1
+Candesartan_cilexetil,Xylitol,0,0.944818304
+Celecoxib,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Celecoxib,Alizarin_Red_S,0,1
+Celecoxib,Allura Red AC,0,1
+Celecoxib,Ampicillin,0,1
+Celecoxib,Betaine,0,1
+Celecoxib,BETANIN,1,0.704002635
+Celecoxib,Brilliant_blue_G,1,0.154949761
+Celecoxib,Caffeic acid,0,1
+Celecoxib,Capecitabine,0,1
+Celecoxib,Carmin,0,1
+Celecoxib,Chlorogenic acid,0,1
+Celecoxib,Citric_acid,0,1
+Celecoxib,Congo_red,0,1
+Celecoxib,D_glucose,0,1
+Celecoxib,D(-)-Tartaric acid,0,1
+Celecoxib,Dopamine hydrochloride,0,1
+Celecoxib,EGCG,0,1
+Celecoxib,Evans_Blue,0,1
+Celecoxib,Gallic_acid,0,1
+Celecoxib,Glutathione,0,1
+Celecoxib,Glycerol,0,1
+Celecoxib,Glycyrrhizic_acid,1,0.200790644
+Celecoxib,L_Ascorbic_acid,0,1
+Celecoxib,L_Leucine,0,1
+Celecoxib,Lamivudine,0,1
+Celecoxib,Meglumine,0,1
+Celecoxib,Metformin hydrochloride,0,1
+Celecoxib,Methylene_Blue_trihydrate,0,1
+Celecoxib,Naproxen_sodium,0,1
+Celecoxib,Nicotinic_acid,0,1
+Celecoxib,Potassium_sorbate,0,1
+Celecoxib,Procyanidin,1,0.525448855
+Celecoxib,SAFFLOWER YELLOW,0,1
+Celecoxib,Salidroside,0,1
+Celecoxib,Sorbitol,0,1
+Celecoxib,Sucrose,0,1
+Celecoxib,Tannic_acid,0,1
+Celecoxib,Tartrazine,0,1
+Celecoxib,Taurine,0,1
+Celecoxib,Triethyl_citrate,0,1
+Celecoxib,Vanillin,0,1
+Celecoxib,Xylitol,0,1
+Carmofur,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Carmofur,Alizarin_Red_S,0,1
+Carmofur,Allura Red AC,1,0.306313646
+Carmofur,Ampicillin,1,0.330210455
+Carmofur,Betaine,1,0.565784114
+Carmofur,BETANIN,1,0.364494229
+Carmofur,Brilliant_blue_G,1,0.316496945
+Carmofur,Caffeic acid,1,0.269314325
+Carmofur,Capecitabine,1,0.582145282
+Carmofur,Carmin,1,0.320095044
+Carmofur,Chlorogenic acid,0,1
+Carmofur,Citric_acid,1,0.634894773
+Carmofur,Congo_red,0,1
+Carmofur,D_glucose,1,0.508553971
+Carmofur,D(-)-Tartaric acid,1,0.466598778
+Carmofur,Dopamine hydrochloride,1,0.413374067
+Carmofur,EGCG,1,0.286422267
+Carmofur,Evans_Blue,1,0.232586558
+Carmofur,Gallic_acid,1,0.369653768
+Carmofur,Glutathione,0,1
+Carmofur,Glycerol,0,1
+Carmofur,Glycyrrhizic_acid,0,1
+Carmofur,L_Ascorbic_acid,1,0.489477257
+Carmofur,L_Leucine,1,0.624779362
+Carmofur,Lamivudine,1,0.495315682
+Carmofur,Meglumine,1,0.459131025
+Carmofur,Metformin hydrochloride,1,0.590427699
+Carmofur,Naproxen_sodium,1,0.408486083
+Carmofur,Nicotinic_acid,1,0.606381534
+Carmofur,Potassium_sorbate,1,0.477732519
+Carmofur,Procyanidin,1,0.523761032
+Carmofur,SAFFLOWER YELLOW,1,0.208961303
+Carmofur,Salidroside,1,0.388798371
+Carmofur,Sorbitol,1,0.391174474
+Carmofur,Sucrose,0,1
+Carmofur,Tannic_acid,1,0.478818737
+Carmofur,Tartrazine,1,0.304344874
+Carmofur,Taurine,0,1
+Carmofur,Triethyl_citrate,0,1
+Carmofur,Vanillin,1,0.52233537
+Carmofur,Xylitol,1,0.615410726
+Carbamazepine,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.680857875
+Carbamazepine,Alizarin_Red_S,0,1
+Carbamazepine,Allura Red AC,1,0.612996159
+Carbamazepine,Ampicillin,0,0.887110542
+Carbamazepine,Betaine,1,0.543854033
+Carbamazepine,BETANIN,1,0.240290226
+Carbamazepine,Brilliant_blue_G,1,0.473111396
+Carbamazepine,Caffeic acid,1,0.620145113
+Carbamazepine,Capecitabine,0,0.781370038
+Carbamazepine,Carmin,1,0.663465642
+Carbamazepine,Chlorogenic acid,0,1
+Carbamazepine,Citric_acid,0,1
+Carbamazepine,Congo_red,1,0.746798976
+Carbamazepine,D_glucose,1,0.137857448
+Carbamazepine,D(-)-Tartaric acid,1,0.653542467
+Carbamazepine,Dopamine hydrochloride,1,0.702944942
+Carbamazepine,EGCG,1,0.205719163
+Carbamazepine,Evans_Blue,1,0.197289799
+Carbamazepine,Gallic_acid,1,0.318075117
+Carbamazepine,Glutathione,0,0.924775928
+Carbamazepine,Glycerol,1,0.583546735
+Carbamazepine,Glycyrrhizic_acid,0,1
+Carbamazepine,L_Ascorbic_acid,1,0.363422962
+Carbamazepine,L_Leucine,1,0.338988476
+Carbamazepine,Lamivudine,1,0.606700811
+Carbamazepine,Meglumine,1,0.43811353
+Carbamazepine,Metformin hydrochloride,0,0.841122493
+Carbamazepine,Naproxen_sodium,0,1
+Carbamazepine,Nicotinic_acid,1,0.038988476
+Carbamazepine,Potassium_sorbate,0,0.9605207
+Carbamazepine,Procyanidin,0,1
+Carbamazepine,SAFFLOWER YELLOW,0,1
+Carbamazepine,Salidroside,0,1
+Carbamazepine,Sorbitol,1,0.692274861
+Carbamazepine,Sucrose,0,0.864916773
+Carbamazepine,Tannic_acid,1,0.491784038
+Carbamazepine,Tartrazine,1,0.338454972
+Carbamazepine,Taurine,1,0.456039266
+Carbamazepine,Triethyl_citrate,1,0.624626547
+Carbamazepine,Vanillin,1,0.528702518
+Carbamazepine,Xylitol,1,0.4079172
+Curcumin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Curcumin,Alizarin_Red_S,1,0.019
+Curcumin,Allura Red AC,1,0.04648
+Curcumin,Ampicillin,0,1
+Curcumin,Betaine,0,1
+Curcumin,BETANIN,0,1
+Curcumin,Brilliant_blue_G,1,0.0239
+Curcumin,Caffeic acid,0,1
+Curcumin,Capecitabine,0,1
+Curcumin,Carmin,1,0.06534
+Curcumin,Chlorogenic acid,0,1
+Curcumin,Citric_acid,1,0.08618
+Curcumin,Congo_red,1,0.04542
+Curcumin,D_glucose,0,1
+Curcumin,D(-)-Tartaric acid,1,0.05424
+Curcumin,Dopamine hydrochloride,0,1
+Curcumin,EGCG,0,1
+Curcumin,Evans_Blue,1,0.03096
+Curcumin,Gallic_acid,1,0.02352
+Curcumin,Glutathione,1,0.06394
+Curcumin,Glycerol,1,0.17434
+Curcumin,Glycyrrhizic_acid,1,0.016786
+Curcumin,L_Ascorbic_acid,1,0.0285
+Curcumin,L_Leucine,0,1
+Curcumin,Lamivudine,1,0.07976
+Curcumin,Meglumine,1,0.02542
+Curcumin,Metformin hydrochloride,0,1
+Curcumin,Methylene_Blue_trihydrate,1,0.05278
+Curcumin,Naproxen_sodium,1,0.03572
+Curcumin,Nicotinic_acid,1,0.0206
+Curcumin,Potassium_sorbate,1,0.04544
+Curcumin,Procyanidin,1,0.04222
+Curcumin,SAFFLOWER YELLOW,1,0.04378
+Curcumin,Salidroside,0,1
+Curcumin,Sorbitol,1,0.11326
+Curcumin,Sucrose,0,1
+Curcumin,Tannic_acid,0,1
+Curcumin,Tartrazine,0,1
+Curcumin,Taurine,0,1
+Curcumin,Triethyl_citrate,0,1
+Curcumin,Vanillin,0,1
+Curcumin,Xylitol,0,1
+Dexamethasone,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Dexamethasone,Alizarin_Red_S,0,1
+Dexamethasone,Allura Red AC,1,0.449634626
+Dexamethasone,Ampicillin,0,1
+Dexamethasone,Betaine,0,1
+Dexamethasone,BETANIN,0,1
+Dexamethasone,Brilliant_blue_G,1,0.214165261
+Dexamethasone,Caffeic acid,0,1
+Dexamethasone,Capecitabine,0,1
+Dexamethasone,Carmin,0,1
+Dexamethasone,Chlorogenic acid,0,1
+Dexamethasone,Citric_acid,0,1
+Dexamethasone,Congo_red,0,1
+Dexamethasone,D_glucose,0,1
+Dexamethasone,D(-)-Tartaric acid,0,1
+Dexamethasone,Dopamine hydrochloride,0,1
+Dexamethasone,EGCG,0,1
+Dexamethasone,Evans_Blue,1,0.014997189
+Dexamethasone,Gallic_acid,1,0.238785835
+Dexamethasone,Glutathione,0,1
+Dexamethasone,Glycerol,0,1
+Dexamethasone,Glycyrrhizic_acid,0,1
+Dexamethasone,L_Ascorbic_acid,0,1
+Dexamethasone,L_Leucine,0,1
+Dexamethasone,Lamivudine,0,1
+Dexamethasone,Meglumine,0,1
+Dexamethasone,Metformin hydrochloride,0,1
+Dexamethasone,Methylene_Blue_trihydrate,0,1
+Dexamethasone,Naproxen_sodium,0,1
+Dexamethasone,Nicotinic_acid,0,1
+Dexamethasone,Potassium_sorbate,0,1
+Dexamethasone,Procyanidin,0,1
+Dexamethasone,SAFFLOWER YELLOW,0,1
+Dexamethasone,Salidroside,0,1
+Dexamethasone,Sorbitol,0,1
+Dexamethasone,Sucrose,0,1
+Dexamethasone,Tannic_acid,0,1
+Dexamethasone,Tartrazine,0,1
+Dexamethasone,Taurine,0,1
+Dexamethasone,Triethyl_citrate,0,1
+Dexamethasone,Vanillin,0,1
+Dexamethasone,Xylitol,0,1
+Dasatinib,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.304287046
+Dasatinib,Alizarin_Red_S,0,1
+Dasatinib,Allura Red AC,1,0.375582479
+Dasatinib,Ampicillin,1,0.25722274
+Dasatinib,Betaine,1,0.598089469
+Dasatinib,BETANIN,0,0.769804287
+Dasatinib,Brilliant_blue_G,1,0.194361603
+Dasatinib,Caffeic acid,0,1
+Dasatinib,Capecitabine,1,0.269338304
+Dasatinib,Carmin,1,0.558480895
+Dasatinib,Chlorogenic acid,0,1
+Dasatinib,Citric_acid,0,1
+Dasatinib,Congo_red,1,0.201724138
+Dasatinib,D_glucose,1,0.262115564
+Dasatinib,D(-)-Tartaric acid,0,1
+Dasatinib,Dopamine hydrochloride,1,0.297297297
+Dasatinib,EGCG,1,0.322693383
+Dasatinib,Gallic_acid,0,0.890959925
+Dasatinib,Glutathione,0,1
+Dasatinib,Glycerol,1,0.26304753
+Dasatinib,Glycyrrhizic_acid,0,1
+Dasatinib,L_Ascorbic_acid,1,0.414026095
+Dasatinib,L_Leucine,1,0.30917987
+Dasatinib,Lamivudine,1,0.289841566
+Dasatinib,Meglumine,1,0.534482759
+Dasatinib,Metformin hydrochloride,0,1
+Dasatinib,Methylene_Blue_trihydrate,1,0.237185461
+Dasatinib,Naproxen_sodium,0,1
+Dasatinib,Nicotinic_acid,0,1
+Dasatinib,Potassium_sorbate,0,1
+Dasatinib,Procyanidin,0,1
+Dasatinib,SAFFLOWER YELLOW,0,1
+Dasatinib,Salidroside,1,0.266076421
+Dasatinib,Sorbitol,1,0.310577819
+Dasatinib,Sucrose,1,0.289375582
+Dasatinib,Tannic_acid,0,0.95526561
+Dasatinib,Tartrazine,0,1
+Dasatinib,Taurine,1,0.256989748
+Dasatinib,Triethyl_citrate,1,0.257688723
+Dasatinib,Vanillin,1,0.29473439
+Dasatinib,Xylitol,1,0.302889096
+Emodin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Emodin,Alizarin_Red_S,0,1
+Emodin,Allura Red AC,0,1
+Emodin,Ampicillin,0,1
+Emodin,Betaine,0,1
+Emodin,BETANIN,0,1
+Emodin,Brilliant_blue_G,1,0.341790194
+Emodin,Caffeic acid,0,1
+Emodin,Capecitabine,0,0.928164196
+Emodin,Carmin,0,1
+Emodin,Chlorogenic acid,0,1
+Emodin,Citric_acid,0,1
+Emodin,Congo_red,1,0.4327252
+Emodin,D_glucose,0,0.772519954
+Emodin,D(-)-Tartaric acid,0,1
+Emodin,Dopamine hydrochloride,0,1
+Emodin,EGCG,0,1
+Emodin,Evans_Blue,0,1
+Emodin,Gallic_acid,0,1
+Emodin,Glutathione,0,1
+Emodin,Glycerol,0,1
+Emodin,Glycyrrhizic_acid,1,0.583238312
+Emodin,L_Ascorbic_acid,0,1
+Emodin,L_Leucine,0,1
+Emodin,Lamivudine,0,1
+Emodin,Meglumine,0,1
+Emodin,Metformin hydrochloride,0,1
+Emodin,Methylene_Blue_trihydrate,0,0.826396807
+Emodin,Naproxen_sodium,0,1
+Emodin,Nicotinic_acid,0,1
+Emodin,Potassium_sorbate,0,1
+Emodin,Procyanidin,1,0.389395667
+Emodin,SAFFLOWER YELLOW,0,1
+Emodin,Salidroside,1,0.706385405
+Emodin,Sorbitol,0,1
+Emodin,Sucrose,0,1
+Emodin,Tannic_acid,0,1
+Emodin,Tartrazine,0,1
+Emodin,Taurine,0,1
+Emodin,Triethyl_citrate,0,1
+Emodin,Vanillin,0,1
+Emodin,Xylitol,0,1
+Erlotinib,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Erlotinib,Alizarin_Red_S,1,0.035059666
+Erlotinib,Allura Red AC,0,1
+Erlotinib,Ampicillin,0,1
+Erlotinib,Betaine,0,1
+Erlotinib,BETANIN,0,1
+Erlotinib,Brilliant_blue_G,1,0.025131265
+Erlotinib,Caffeic acid,1,0.214009547
+Erlotinib,Capecitabine,0,1
+Erlotinib,Carmin,0,1
+Erlotinib,Chlorogenic acid,1,0.23725537
+Erlotinib,Citric_acid,0,1
+Erlotinib,Congo_red,0,1
+Erlotinib,D_glucose,0,1
+Erlotinib,D(-)-Tartaric acid,0,1
+Erlotinib,Dopamine hydrochloride,0,1
+Erlotinib,EGCG,1,0.084582339
+Erlotinib,Evans_Blue,0,1
+Erlotinib,Gallic_acid,1,0.219140811
+Erlotinib,Glutathione,0,1
+Erlotinib,Glycerol,0,1
+Erlotinib,Glycyrrhizic_acid,1,0.027326969
+Erlotinib,L_Ascorbic_acid,0,1
+Erlotinib,L_Leucine,0,1
+Erlotinib,Lamivudine,0,1
+Erlotinib,Meglumine,0,1
+Erlotinib,Metformin hydrochloride,0,1
+Erlotinib,Methylene_Blue_trihydrate,0,1
+Erlotinib,Naproxen_sodium,0,1
+Erlotinib,Nicotinic_acid,0,1
+Erlotinib,Potassium_sorbate,0,1
+Erlotinib,Procyanidin,1,0.112649165
+Erlotinib,SAFFLOWER YELLOW,0,1
+Erlotinib,Salidroside,0,1
+Erlotinib,Sorbitol,0,1
+Erlotinib,Sucrose,0,1
+Erlotinib,Tannic_acid,1,0.034009547
+Erlotinib,Tartrazine,0,1
+Erlotinib,Taurine,0,1
+Erlotinib,Triethyl_citrate,0,1
+Erlotinib,Vanillin,0,1
+Erlotinib,Xylitol,0,1
+Folic_acid,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Folic_acid,Alizarin_Red_S,1,0.509785893
+Folic_acid,Allura Red AC,0,1
+Folic_acid,Ampicillin,0,1
+Folic_acid,Betaine,0,1
+Folic_acid,BETANIN,1,0.089110732
+Folic_acid,Brilliant_blue_G,0,1
+Folic_acid,Caffeic acid,0,1
+Folic_acid,Capecitabine,1,0.338631289
+Folic_acid,Carmin,0,1
+Folic_acid,Chlorogenic acid,0,1
+Folic_acid,Citric_acid,0,1
+Folic_acid,Congo_red,0,1
+Folic_acid,D_glucose,1,0.063706817
+Folic_acid,D(-)-Tartaric acid,0,1
+Folic_acid,Dopamine hydrochloride,0,1
+Folic_acid,EGCG,1,0.057034021
+Folic_acid,Gallic_acid,1,0.055667936
+Folic_acid,Glutathione,0,1
+Folic_acid,Glycerol,0,1
+Folic_acid,Glycyrrhizic_acid,0,1
+Folic_acid,L_Ascorbic_acid,1,0.087836595
+Folic_acid,L_Leucine,1,0.219887035
+Folic_acid,Lamivudine,0,1
+Folic_acid,Meglumine,0,1
+Folic_acid,Metformin hydrochloride,0,1
+Folic_acid,Methylene_Blue_trihydrate,0,1
+Folic_acid,Naproxen_sodium,0,1
+Folic_acid,Nicotinic_acid,1,0.06008144
+Folic_acid,Potassium_sorbate,0,1
+Folic_acid,Procyanidin,0,0.756075135
+Folic_acid,SAFFLOWER YELLOW,0,1
+Folic_acid,Salidroside,1,0.077945619
+Folic_acid,Sorbitol,0,1
+Folic_acid,Sucrose,0,1
+Folic_acid,Tannic_acid,0,1
+Folic_acid,Tartrazine,0,1
+Folic_acid,Taurine,0,1
+Folic_acid,Triethyl_citrate,0,1
+Folic_acid,Vanillin,0,1
+Folic_acid,Xylitol,0,1
+Fenofibrate,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Fenofibrate,Alizarin_Red_S,1,0.582630691
+Fenofibrate,Allura Red AC,0,1
+Fenofibrate,Ampicillin,0,1
+Fenofibrate,Betaine,0,0.800505902
+Fenofibrate,BETANIN,1,0.390472175
+Fenofibrate,Brilliant_blue_G,1,0.209106239
+Fenofibrate,Caffeic acid,0,1
+Fenofibrate,Capecitabine,1,0.578836425
+Fenofibrate,Carmin,0,1
+Fenofibrate,Chlorogenic acid,0,1
+Fenofibrate,Citric_acid,0,1
+Fenofibrate,Congo_red,1,0.546374368
+Fenofibrate,D_glucose,1,0.527571669
+Fenofibrate,D(-)-Tartaric acid,0,0.830860034
+Fenofibrate,Dopamine hydrochloride,0,1
+Fenofibrate,EGCG,0,1
+Fenofibrate,Evans_Blue,1,0.384401349
+Fenofibrate,Gallic_acid,0,1
+Fenofibrate,Glutathione,0,1
+Fenofibrate,Glycerol,0,1
+Fenofibrate,Glycyrrhizic_acid,1,0.223187184
+Fenofibrate,L_Ascorbic_acid,1,0.589544688
+Fenofibrate,L_Leucine,0,0.750674536
+Fenofibrate,Lamivudine,0,1
+Fenofibrate,Meglumine,1,0.425463744
+Fenofibrate,Metformin hydrochloride,0,1
+Fenofibrate,Methylene_Blue_trihydrate,0,1
+Fenofibrate,Naproxen_sodium,0,0.835581788
+Fenofibrate,Nicotinic_acid,1,0.408937605
+Fenofibrate,Potassium_sorbate,0,1
+Fenofibrate,Procyanidin,1,0.596374368
+Fenofibrate,SAFFLOWER YELLOW,0,1
+Fenofibrate,Salidroside,1,0.43296796
+Fenofibrate,Sorbitol,1,0.668718381
+Fenofibrate,Sucrose,0,1
+Fenofibrate,Tannic_acid,0,0.762394604
+Fenofibrate,Tartrazine,0,1
+Fenofibrate,Taurine,0,1
+Fenofibrate,Triethyl_citrate,0,0.770573356
+Fenofibrate,Vanillin,0,1
+Fenofibrate,Xylitol,0,1
+Gefitinib,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Gefitinib,Alizarin_Red_S,1,0.1273
+Gefitinib,Allura Red AC,0,1
+Gefitinib,Ampicillin,0,1
+Gefitinib,Betaine,0,1
+Gefitinib,BETANIN,0,0.9105
+Gefitinib,Brilliant_blue_G,1,0.1185
+Gefitinib,Caffeic acid,1,0.1025
+Gefitinib,Capecitabine,0,1
+Gefitinib,Carmin,0,1
+Gefitinib,Chlorogenic acid,0,1
+Gefitinib,Citric_acid,1,0.6906
+Gefitinib,Congo_red,1,0.1331
+Gefitinib,D_glucose,0,1
+Gefitinib,D(-)-Tartaric acid,1,0.6201
+Gefitinib,Dopamine hydrochloride,0,1
+Gefitinib,EGCG,1,0.1365
+Gefitinib,Evans_Blue,1,0.05779
+Gefitinib,Gallic_acid,1,0.03884
+Gefitinib,Glutathione,0,1
+Gefitinib,Glycerol,0,1
+Gefitinib,Glycyrrhizic_acid,0,1
+Gefitinib,L_Ascorbic_acid,1,0.377
+Gefitinib,L_Leucine,0,0.8067
+Gefitinib,Lamivudine,0,1
+Gefitinib,Meglumine,0,1
+Gefitinib,Metformin hydrochloride,0,1
+Gefitinib,Methylene_Blue_trihydrate,1,0.03835
+Gefitinib,Naproxen_sodium,0,1
+Gefitinib,Nicotinic_acid,1,0.2474
+Gefitinib,Potassium_sorbate,0,1
+Gefitinib,Procyanidin,0,1
+Gefitinib,SAFFLOWER YELLOW,0,1
+Gefitinib,Salidroside,0,1
+Gefitinib,Sorbitol,0,1
+Gefitinib,Sucrose,0,1
+Gefitinib,Tannic_acid,1,0.2329
+Gefitinib,Tartrazine,0,1
+Gefitinib,Taurine,0,1
+Gefitinib,Triethyl_citrate,0,1
+Gefitinib,Vanillin,0,1
+Gefitinib,Xylitol,0,1
+Genistein,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Genistein,Alizarin_Red_S,0,1
+Genistein,Allura Red AC,0,1
+Genistein,Ampicillin,0,1
+Genistein,Betaine,0,1
+Genistein,BETANIN,0,1
+Genistein,Brilliant_blue_G,1,0.451913641
+Genistein,Caffeic acid,0,1
+Genistein,Capecitabine,0,1
+Genistein,Carmin,0,0.973797841
+Genistein,Chlorogenic acid,0,1
+Genistein,Citric_acid,0,1
+Genistein,Congo_red,0,1
+Genistein,D_glucose,0,1
+Genistein,D(-)-Tartaric acid,0,1
+Genistein,Dopamine hydrochloride,0,1
+Genistein,EGCG,0,1
+Genistein,Evans_Blue,0,1
+Genistein,Gallic_acid,0,1
+Genistein,Glutathione,0,1
+Genistein,Glycerol,0,1
+Genistein,Glycyrrhizic_acid,0,0.835525025
+Genistein,L_Ascorbic_acid,0,1
+Genistein,L_Leucine,0,1
+Genistein,Lamivudine,0,1
+Genistein,Meglumine,0,0.827576055
+Genistein,Metformin hydrochloride,0,1
+Genistein,Methylene_Blue_trihydrate,0,1
+Genistein,Naproxen_sodium,0,1
+Genistein,Nicotinic_acid,0,1
+Genistein,Potassium_sorbate,0,1
+Genistein,Procyanidin,0,1
+Genistein,SAFFLOWER YELLOW,0,1
+Genistein,Salidroside,0,1
+Genistein,Sorbitol,0,1
+Genistein,Sucrose,0,1
+Genistein,Tannic_acid,0,1
+Genistein,Tartrazine,0,1
+Genistein,Taurine,0,1
+Genistein,Triethyl_citrate,0,1
+Genistein,Vanillin,0,1
+Genistein,Xylitol,0,1
+Ibuprofen,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.482879106
+Ibuprofen,Alizarin_Red_S,0,1
+Ibuprofen,Allura Red AC,0,1
+Ibuprofen,Ampicillin,0,1
+Ibuprofen,Betaine,1,0.148986723
+Ibuprofen,BETANIN,0,1
+Ibuprofen,Brilliant_blue_G,1,0.138923829
+Ibuprofen,Caffeic acid,1,0.487910552
+Ibuprofen,Capecitabine,1,0.3453529
+Ibuprofen,Carmin,1,0.733193571
+Ibuprofen,Chlorogenic acid,1,0.659678546
+Ibuprofen,Citric_acid,0,1
+Ibuprofen,Congo_red,1,0.159049616
+Ibuprofen,D_glucose,1,0.214814815
+Ibuprofen,D(-)-Tartaric acid,1,0.460517121
+Ibuprofen,Dopamine hydrochloride,0,1
+Ibuprofen,EGCG,0,1
+Ibuprofen,Evans_Blue,1,0.492243187
+Ibuprofen,Gallic_acid,1,0.587561146
+Ibuprofen,Glutathione,1,0.379454927
+Ibuprofen,Glycerol,1,0.677987421
+Ibuprofen,Glycyrrhizic_acid,0,1
+Ibuprofen,L_Ascorbic_acid,1,0.379874214
+Ibuprofen,L_Leucine,1,0.320754717
+Ibuprofen,Lamivudine,0,1
+Ibuprofen,Meglumine,1,0.027127883
+Ibuprofen,Metformin hydrochloride,1,0.69475891
+Ibuprofen,Methylene_Blue_trihydrate,1,0.323689727
+Ibuprofen,Naproxen_sodium,0,1
+Ibuprofen,Nicotinic_acid,1,0.034842767
+Ibuprofen,Potassium_sorbate,0,1
+Ibuprofen,Procyanidin,0,0.917400419
+Ibuprofen,SAFFLOWER YELLOW,1,0.376519916
+Ibuprofen,Salidroside,0,1
+Ibuprofen,Sorbitol,0,1
+Ibuprofen,Sucrose,1,0.120628931
+Ibuprofen,Tannic_acid,1,0.744933613
+Ibuprofen,Tartrazine,1,0.582110412
+Ibuprofen,Taurine,1,0.68665269
+Ibuprofen,Triethyl_citrate,1,0.674633124
+Ibuprofen,Vanillin,1,0.541160028
+Ibuprofen,Xylitol,1,0.623899371
+Indomethacin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Indomethacin,Alizarin_Red_S,1,0.156624075
+Indomethacin,Allura Red AC,0,1
+Indomethacin,Ampicillin,0,1
+Indomethacin,Betaine,1,0.178883658
+Indomethacin,BETANIN,1,0.375857431
+Indomethacin,Brilliant_blue_G,1,0.058386012
+Indomethacin,Caffeic acid,0,1
+Indomethacin,Capecitabine,0,1
+Indomethacin,Carmin,0,1
+Indomethacin,Chlorogenic acid,0,1
+Indomethacin,Citric_acid,0,1
+Indomethacin,Congo_red,1,0.087020847
+Indomethacin,D_glucose,1,0.086953598
+Indomethacin,D(-)-Tartaric acid,0,1
+Indomethacin,Dopamine hydrochloride,0,1
+Indomethacin,EGCG,1,0.075521184
+Indomethacin,Evans_Blue,1,0.041237391
+Indomethacin,Gallic_acid,1,0.085205111
+Indomethacin,Glutathione,0,1
+Indomethacin,Glycerol,0,1
+Indomethacin,Glycyrrhizic_acid,1,0.087558843
+Indomethacin,L_Ascorbic_acid,1,0.096234028
+Indomethacin,L_Leucine,1,0.14129119
+Indomethacin,Lamivudine,0,1
+Indomethacin,Meglumine,1,0.103295225
+Indomethacin,Metformin hydrochloride,0,1
+Indomethacin,Methylene_Blue_trihydrate,1,0.635171486
+Indomethacin,Naproxen_sodium,0,1
+Indomethacin,Nicotinic_acid,1,0.083120377
+Indomethacin,Potassium_sorbate,0,1
+Indomethacin,Procyanidin,1,0.175386685
+Indomethacin,SAFFLOWER YELLOW,0,1
+Indomethacin,Salidroside,1,0.099865501
+Indomethacin,Sorbitol,1,0.293140551
+Indomethacin,Sucrose,0,1
+Indomethacin,Tannic_acid,1,0.261667787
+Indomethacin,Tartrazine,1,0.356556826
+Indomethacin,Taurine,0,1
+Indomethacin,Triethyl_citrate,0,1
+Indomethacin,Vanillin,0,1
+Indomethacin,Xylitol,1,0.561129792
+Lauric_acid,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Lauric_acid,Alizarin_Red_S,0,1
+Lauric_acid,Allura Red AC,0,1
+Lauric_acid,Ampicillin,0,1
+Lauric_acid,Betaine,0,1
+Lauric_acid,BETANIN,0,1
+Lauric_acid,Brilliant_blue_G,1,0.229505882
+Lauric_acid,Caffeic acid,0,1
+Lauric_acid,Capecitabine,0,1
+Lauric_acid,Carmin,0,1
+Lauric_acid,Chlorogenic acid,0,1
+Lauric_acid,Citric_acid,0,1
+Lauric_acid,Congo_red,0,1
+Lauric_acid,D_glucose,0,1
+Lauric_acid,D(-)-Tartaric acid,0,1
+Lauric_acid,Dopamine hydrochloride,0,1
+Lauric_acid,EGCG,0,1
+Lauric_acid,Evans_Blue,0,1
+Lauric_acid,Gallic_acid,0,1
+Lauric_acid,Glutathione,0,1
+Lauric_acid,Glycerol,0,1
+Lauric_acid,Glycyrrhizic_acid,0,1
+Lauric_acid,L_Ascorbic_acid,0,1
+Lauric_acid,L_Leucine,0,1
+Lauric_acid,Lamivudine,0,1
+Lauric_acid,Meglumine,1,0.153270588
+Lauric_acid,Metformin hydrochloride,0,1
+Lauric_acid,Methylene_Blue_trihydrate,0,1
+Lauric_acid,Naproxen_sodium,0,1
+Lauric_acid,Nicotinic_acid,0,1
+Lauric_acid,Potassium_sorbate,0,1
+Lauric_acid,Procyanidin,0,1
+Lauric_acid,SAFFLOWER YELLOW,0,1
+Lauric_acid,Salidroside,0,1
+Lauric_acid,Sorbitol,0,1
+Lauric_acid,Sucrose,0,1
+Lauric_acid,Tannic_acid,0,1
+Lauric_acid,Tartrazine,0,1
+Lauric_acid,Taurine,0,1
+Lauric_acid,Triethyl_citrate,0,1
+Lauric_acid,Vanillin,0,1
+Lauric_acid,Xylitol,0,1
+Loratadine,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Loratadine,Alizarin_Red_S,1,0.560873786
+Loratadine,Allura Red AC,0,1
+Loratadine,Ampicillin,0,1
+Loratadine,Betaine,1,0.678640777
+Loratadine,BETANIN,0,1
+Loratadine,Brilliant_blue_G,1,0.127378641
+Loratadine,Caffeic acid,1,0.216893204
+Loratadine,Capecitabine,0,1
+Loratadine,Carmin,0,1
+Loratadine,Chlorogenic acid,1,0.433009709
+Loratadine,Citric_acid,1,0.430679612
+Loratadine,Congo_red,1,0.615825243
+Loratadine,D_glucose,0,1
+Loratadine,D(-)-Tartaric acid,0,1
+Loratadine,Dopamine hydrochloride,1,0.73592233
+Loratadine,EGCG,0,1
+Loratadine,Evans_Blue,1,0.663203883
+Loratadine,Gallic_acid,1,0.390194175
+Loratadine,Glutathione,1,0.229320388
+Loratadine,Glycerol,0,1
+Loratadine,Glycyrrhizic_acid,1,0.106796117
+Loratadine,L_Ascorbic_acid,1,0.552912621
+Loratadine,L_Leucine,0,1
+Loratadine,Lamivudine,0,1
+Loratadine,Meglumine,0,0.907378641
+Loratadine,Metformin hydrochloride,0,1
+Loratadine,Methylene_Blue_trihydrate,0,1
+Loratadine,Naproxen_sodium,0,0.881650485
+Loratadine,Nicotinic_acid,1,0.419805825
+Loratadine,Potassium_sorbate,0,0.790776699
+Loratadine,Procyanidin,1,0.154563107
+Loratadine,SAFFLOWER YELLOW,1,0.270970874
+Loratadine,Salidroside,0,1
+Loratadine,Sorbitol,0,1
+Loratadine,Sucrose,0,1
+Loratadine,Tannic_acid,1,0.172718447
+Loratadine,Tartrazine,0,0.868252427
+Loratadine,Taurine,0,1
+Loratadine,Triethyl_citrate,0,1
+Loratadine,Vanillin,1,0.580970874
+Loratadine,Xylitol,0,1
+Luteolin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Luteolin,Alizarin_Red_S,0,1
+Luteolin,Allura Red AC,0,1
+Luteolin,Ampicillin,0,1
+Luteolin,Betaine,0,1
+Luteolin,BETANIN,0,1
+Luteolin,Brilliant_blue_G,1,0.069554966
+Luteolin,Caffeic acid,0,1
+Luteolin,Capecitabine,0,1
+Luteolin,Carmin,0,1
+Luteolin,Chlorogenic acid,0,1
+Luteolin,Citric_acid,0,1
+Luteolin,Congo_red,1,0.075184203
+Luteolin,D_glucose,0,1
+Luteolin,D(-)-Tartaric acid,0,1
+Luteolin,Dopamine hydrochloride,0,1
+Luteolin,EGCG,0,1
+Luteolin,Evans_Blue,0,1
+Luteolin,Gallic_acid,0,1
+Luteolin,Glutathione,0,1
+Luteolin,Glycerol,0,1
+Luteolin,Glycyrrhizic_acid,1,0.060094312
+Luteolin,L_Ascorbic_acid,0,1
+Luteolin,L_Leucine,0,1
+Luteolin,Lamivudine,0,1
+Luteolin,Meglumine,0,1
+Luteolin,Metformin hydrochloride,0,1
+Luteolin,Methylene_Blue_trihydrate,0,1
+Luteolin,Naproxen_sodium,0,1
+Luteolin,Nicotinic_acid,0,1
+Luteolin,Potassium_sorbate,0,1
+Luteolin,Procyanidin,0,1
+Luteolin,SAFFLOWER YELLOW,0,1
+Luteolin,Salidroside,0,1
+Luteolin,Sorbitol,0,1
+Luteolin,Sucrose,0,1
+Luteolin,Tannic_acid,1,0.024998526
+Luteolin,Tartrazine,0,1
+Luteolin,Taurine,0,1
+Luteolin,Triethyl_citrate,0,1
+Luteolin,Vanillin,0,1
+Luteolin,Xylitol,0,1
+Meloxicam,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Meloxicam,Alizarin_Red_S,0,1
+Meloxicam,Allura Red AC,0,1
+Meloxicam,Ampicillin,0,1
+Meloxicam,Betaine,0,1
+Meloxicam,BETANIN,1,0.466326034
+Meloxicam,Brilliant_blue_G,1,0.054549878
+Meloxicam,Caffeic acid,0,1
+Meloxicam,Capecitabine,1,0.371435523
+Meloxicam,Carmin,0,1
+Meloxicam,Chlorogenic acid,0,1
+Meloxicam,Citric_acid,0,1
+Meloxicam,Congo_red,1,0.263163017
+Meloxicam,D_glucose,1,0.282627737
+Meloxicam,D(-)-Tartaric acid,0,1
+Meloxicam,Dopamine hydrochloride,0,1
+Meloxicam,EGCG,0,1
+Meloxicam,Evans_Blue,1,0.201508516
+Meloxicam,Gallic_acid,0,1
+Meloxicam,Glutathione,0,1
+Meloxicam,Glycerol,0,1
+Meloxicam,Glycyrrhizic_acid,1,0.042754258
+Meloxicam,L_Ascorbic_acid,0,1
+Meloxicam,L_Leucine,1,0.288807786
+Meloxicam,Lamivudine,0,1
+Meloxicam,Meglumine,0,1
+Meloxicam,Metformin hydrochloride,0,1
+Meloxicam,Methylene_Blue_trihydrate,0,1
+Meloxicam,Naproxen_sodium,0,1
+Meloxicam,Nicotinic_acid,0,1
+Meloxicam,Potassium_sorbate,0,1
+Meloxicam,Procyanidin,1,0.087007299
+Meloxicam,SAFFLOWER YELLOW,0,1
+Meloxicam,Salidroside,1,0.44486618
+Meloxicam,Sorbitol,0,1
+Meloxicam,Sucrose,0,1
+Meloxicam,Tannic_acid,1,0.359854015
+Meloxicam,Tartrazine,0,1
+Meloxicam,Taurine,0,1
+Meloxicam,Triethyl_citrate,0,1
+Meloxicam,Vanillin,1,0.465206813
+Meloxicam,Xylitol,0,1
+Nevirapine,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.245906433
+Nevirapine,Alizarin_Red_S,0,1
+Nevirapine,Allura Red AC,1,0.52251462
+Nevirapine,Ampicillin,0,0.905945419
+Nevirapine,Betaine,1,0.1417154
+Nevirapine,BETANIN,1,0.174658869
+Nevirapine,Brilliant_blue_G,1,0.312183236
+Nevirapine,Caffeic acid,0,1
+Nevirapine,Capecitabine,0,1
+Nevirapine,Carmin,1,0.696101365
+Nevirapine,Chlorogenic acid,0,1
+Nevirapine,Citric_acid,0,1
+Nevirapine,Congo_red,1,0.686842105
+Nevirapine,D_glucose,1,0.184990253
+Nevirapine,D(-)-Tartaric acid,0,1
+Nevirapine,Dopamine hydrochloride,0,1
+Nevirapine,EGCG,1,0.261013645
+Nevirapine,Evans_Blue,1,0.525243665
+Nevirapine,Gallic_acid,1,0.35662768
+Nevirapine,Glutathione,0,0.752729045
+Nevirapine,Glycerol,1,0.563255361
+Nevirapine,Glycyrrhizic_acid,0,1
+Nevirapine,L_Ascorbic_acid,1,0.446393762
+Nevirapine,L_Leucine,1,0.253216374
+Nevirapine,Lamivudine,0,1
+Nevirapine,Meglumine,0,1
+Nevirapine,Metformin hydrochloride,0,0.766374269
+Nevirapine,Naproxen_sodium,0,0.780214425
+Nevirapine,Nicotinic_acid,1,0.146101365
+Nevirapine,Potassium_sorbate,0,1
+Nevirapine,Procyanidin,0,1
+Nevirapine,SAFFLOWER YELLOW,0,1
+Nevirapine,Salidroside,0,1
+Nevirapine,Sorbitol,1,0.664522417
+Nevirapine,Sucrose,0,0.933040936
+Nevirapine,Tartrazine,0,0.966276803
+Nevirapine,Taurine,1,0.408966862
+Nevirapine,Triethyl_citrate,1,0.731773879
+Nevirapine,Vanillin,1,0.53625731
+Nevirapine,Xylitol,0,0.849220273
+Omeprazole,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.223565966
+Omeprazole,Alizarin_Red_S,1,0.153537285
+Omeprazole,Allura Red AC,1,0.070602294
+Omeprazole,Ampicillin,1,0.252724665
+Omeprazole,Betaine,1,0.310516252
+Omeprazole,BETANIN,1,0.176338432
+Omeprazole,Brilliant_blue_G,1,0.082409178
+Omeprazole,Caffeic acid,1,0.073852772
+Omeprazole,Capecitabine,1,0.101099426
+Omeprazole,Carmin,1,0.080688337
+Omeprazole,Chlorogenic acid,1,0.291013384
+Omeprazole,Citric_acid,1,0.4666826
+Omeprazole,Congo_red,1,0.235946463
+Omeprazole,D_glucose,1,0.070172084
+Omeprazole,D(-)-Tartaric acid,0,1
+Omeprazole,Dopamine hydrochloride,1,0.139101338
+Omeprazole,EGCG,1,0.092877629
+Omeprazole,Evans_Blue,0,1
+Omeprazole,Gallic_acid,1,0.095697897
+Omeprazole,Glutathione,1,0.211520076
+Omeprazole,Glycerol,1,0.097944551
+Omeprazole,Glycyrrhizic_acid,1,0.080162524
+Omeprazole,L_Ascorbic_acid,1,0.0708413
+Omeprazole,L_Leucine,1,0.26457935
+Omeprazole,Lamivudine,1,0.162810707
+Omeprazole,Meglumine,1,0.419646272
+Omeprazole,Metformin hydrochloride,1,0.186567878
+Omeprazole,Methylene_Blue_trihydrate,1,0.144407266
+Omeprazole,Naproxen_sodium,1,0.23293499
+Omeprazole,Nicotinic_acid,0,1
+Omeprazole,Potassium_sorbate,1,0.257982792
+Omeprazole,Procyanidin,1,0.278776291
+Omeprazole,SAFFLOWER YELLOW,1,0.054827916
+Omeprazole,Salidroside,1,0.075239006
+Omeprazole,Sorbitol,1,0.187428298
+Omeprazole,Sucrose,1,0.19206501
+Omeprazole,Tannic_acid,1,0.093021033
+Omeprazole,Tartrazine,1,0.137954111
+Omeprazole,Taurine,1,0.20540153
+Omeprazole,Triethyl_citrate,1,0.233652008
+Omeprazole,Vanillin,1,0.25874761
+Omeprazole,Xylitol,1,0.14498088
+Probucol,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Probucol,Alizarin_Red_S,0,0.946952071
+Probucol,Allura Red AC,0,1
+Probucol,Ampicillin,0,1
+Probucol,Betaine,0,1
+Probucol,BETANIN,0,1
+Probucol,Brilliant_blue_G,0,0.899488134
+Probucol,Caffeic acid,0,1
+Probucol,Capecitabine,0,1
+Probucol,Carmin,0,1
+Probucol,Chlorogenic acid,0,1
+Probucol,Citric_acid,0,1
+Probucol,Congo_red,0,0.865984179
+Probucol,D_glucose,0,1
+Probucol,D(-)-Tartaric acid,0,1
+Probucol,Dopamine hydrochloride,0,1
+Probucol,EGCG,0,1
+Probucol,Evans_Blue,0,1
+Probucol,Gallic_acid,0,1
+Probucol,Glutathione,0,1
+Probucol,Glycerol,0,1
+Probucol,Glycyrrhizic_acid,0,0.949278734
+Probucol,L_Ascorbic_acid,0,1
+Probucol,L_Leucine,0,1
+Probucol,Lamivudine,0,1
+Probucol,Meglumine,0,1
+Probucol,Metformin hydrochloride,0,1
+Probucol,Methylene_Blue_trihydrate,0,1
+Probucol,Naproxen_sodium,0,0.805490926
+Probucol,Nicotinic_acid,0,1
+Probucol,Potassium_sorbate,0,1
+Probucol,Procyanidin,0,1
+Probucol,SAFFLOWER YELLOW,0,1
+Probucol,Salidroside,0,1
+Probucol,Sorbitol,0,1
+Probucol,Sucrose,0,1
+Probucol,Tannic_acid,0,1
+Probucol,Tartrazine,0,1
+Probucol,Taurine,0,1
+Probucol,Triethyl_citrate,0,1
+Probucol,Vanillin,0,1
+Probucol,Xylitol,0,1
+Piroxicam,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Piroxicam,Alizarin_Red_S,0,1
+Piroxicam,Allura Red AC,1,0.266410408
+Piroxicam,Ampicillin,1,0.520756949
+Piroxicam,Betaine,1,0.464340627
+Piroxicam,BETANIN,1,0.348551153
+Piroxicam,Brilliant_blue_G,1,0.282022472
+Piroxicam,Caffeic acid,1,0.352454169
+Piroxicam,Capecitabine,1,0.527025429
+Piroxicam,Carmin,1,0.474985216
+Piroxicam,Chlorogenic acid,0,1
+Piroxicam,Citric_acid,0,1
+Piroxicam,Congo_red,0,1
+Piroxicam,D_glucose,1,0.194677705
+Piroxicam,D(-)-Tartaric acid,0,1
+Piroxicam,Dopamine hydrochloride,1,0.344470727
+Piroxicam,EGCG,1,0.115612064
+Piroxicam,Evans_Blue,1,0.149793022
+Piroxicam,Gallic_acid,1,0.138261384
+Piroxicam,Glutathione,1,0.493790656
+Piroxicam,Glycerol,0,1
+Piroxicam,Glycyrrhizic_acid,0,1
+Piroxicam,L_Ascorbic_acid,1,0.065523359
+Piroxicam,L_Leucine,1,0.126670609
+Piroxicam,Lamivudine,1,0.517208752
+Piroxicam,Meglumine,1,0.240094619
+Piroxicam,Metformin hydrochloride,0,1
+Piroxicam,Naproxen_sodium,0,1
+Piroxicam,Nicotinic_acid,1,0.085807215
+Piroxicam,Potassium_sorbate,1,0.329154347
+Piroxicam,Procyanidin,1,0.477823773
+Piroxicam,SAFFLOWER YELLOW,0,1
+Piroxicam,Salidroside,1,0.266055588
+Piroxicam,Sorbitol,1,0.496215257
+Piroxicam,Sucrose,0,1
+Piroxicam,Tannic_acid,1,0.242933176
+Piroxicam,Tartrazine,0,1
+Piroxicam,Taurine,0,1
+Piroxicam,Triethyl_citrate,0,1
+Piroxicam,Vanillin,1,0.346126552
+Piroxicam,Xylitol,0,1
+Podophyllotoxin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.5639
+Podophyllotoxin,Alizarin_Red_S,1,0.6761
+Podophyllotoxin,Allura Red AC,0,0.7758
+Podophyllotoxin,Ampicillin,1,0.6039
+Podophyllotoxin,Betaine,1,0.1929
+Podophyllotoxin,BETANIN,1,0.1664
+Podophyllotoxin,Brilliant_blue_G,1,0.1582
+Podophyllotoxin,Caffeic acid,1,0.3958
+Podophyllotoxin,Capecitabine,1,0.5914
+Podophyllotoxin,Carmin,1,0.6637
+Podophyllotoxin,Chlorogenic acid,1,0.7128
+Podophyllotoxin,Citric_acid,0,1
+Podophyllotoxin,Congo_red,1,0.6186
+Podophyllotoxin,D_glucose,1,0.2299
+Podophyllotoxin,D(-)-Tartaric acid,0,0.925
+Podophyllotoxin,Dopamine hydrochloride,1,0.6582
+Podophyllotoxin,EGCG,1,0.1663
+Podophyllotoxin,Evans_Blue,1,0.5014
+Podophyllotoxin,Gallic_acid,1,0.419
+Podophyllotoxin,Glutathione,0,0.869
+Podophyllotoxin,Glycerol,1,0.502
+Podophyllotoxin,Glycyrrhizic_acid,0,1
+Podophyllotoxin,L_Ascorbic_acid,1,0.3146
+Podophyllotoxin,L_Leucine,1,0.3208
+Podophyllotoxin,Lamivudine,0,1
+Podophyllotoxin,Meglumine,0,1
+Podophyllotoxin,Metformin hydrochloride,1,0.6245
+Podophyllotoxin,Methylene_Blue_trihydrate,0,1
+Podophyllotoxin,Naproxen_sodium,1,0.668
+Podophyllotoxin,Nicotinic_acid,1,0.6707
+Podophyllotoxin,Potassium_sorbate,1,0.4362
+Podophyllotoxin,Procyanidin,0,0.994
+Podophyllotoxin,SAFFLOWER YELLOW,0,0.8179
+Podophyllotoxin,Salidroside,0,1
+Podophyllotoxin,Sorbitol,1,0.5642
+Podophyllotoxin,Sucrose,0,1
+Podophyllotoxin,Tannic_acid,1,0.4455
+Podophyllotoxin,Tartrazine,0,0.7931
+Podophyllotoxin,Taurine,1,0.243
+Podophyllotoxin,Triethyl_citrate,0,0.9116
+Podophyllotoxin,Vanillin,1,0.4418
+Podophyllotoxin,Xylitol,0,1
+Puerarin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,0.9327
+Puerarin,Alizarin_Red_S,1,0.7056
+Puerarin,Allura Red AC,1,0.5744
+Puerarin,Ampicillin,1,0.3591
+Puerarin,Betaine,1,0.3714
+Puerarin,BETANIN,1,0.2831
+Puerarin,Brilliant_blue_G,1,0.4531
+Puerarin,Caffeic acid,1,0.4143
+Puerarin,Capecitabine,0,1
+Puerarin,Carmin,1,0.7096
+Puerarin,Chlorogenic acid,0,0.8175
+Puerarin,Citric_acid,1,0.5296
+Puerarin,Congo_red,1,0.4576
+Puerarin,D_glucose,1,0.3859
+Puerarin,D(-)-Tartaric acid,0,0.8607
+Puerarin,Dopamine hydrochloride,1,0.4701
+Puerarin,EGCG,1,0.1292
+Puerarin,Gallic_acid,1,0.2762
+Puerarin,Glutathione,0,1
+Puerarin,Glycerol,1,0.5358
+Puerarin,Glycyrrhizic_acid,0,1
+Puerarin,L_Ascorbic_acid,1,0.2544
+Puerarin,L_Leucine,1,0.4353
+Puerarin,Lamivudine,0,0.9393
+Puerarin,Meglumine,0,1
+Puerarin,Metformin hydrochloride,0,0.8902
+Puerarin,Methylene_Blue_trihydrate,0,1
+Puerarin,Naproxen_sodium,0,1
+Puerarin,Nicotinic_acid,1,0.1844
+Puerarin,Potassium_sorbate,1,0.4868
+Puerarin,Procyanidin,0,1
+Puerarin,SAFFLOWER YELLOW,1,0.6314
+Puerarin,Salidroside,0,1
+Puerarin,Sorbitol,1,0.4519
+Puerarin,Sucrose,1,0.4358
+Puerarin,Tannic_acid,1,0.2767
+Puerarin,Tartrazine,1,0.5444
+Puerarin,Taurine,1,0.4458
+Puerarin,Triethyl_citrate,0,0.9276
+Puerarin,Vanillin,1,0.2828
+Puerarin,Xylitol,0,0.8478
+Pyrimethamine,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Pyrimethamine,Alizarin_Red_S,0,1
+Pyrimethamine,Allura Red AC,0,1
+Pyrimethamine,Ampicillin,0,1
+Pyrimethamine,Betaine,0,1
+Pyrimethamine,BETANIN,0,1
+Pyrimethamine,Brilliant_blue_G,1,0.136922903
+Pyrimethamine,Caffeic acid,0,1
+Pyrimethamine,Capecitabine,0,1
+Pyrimethamine,Carmin,0,1
+Pyrimethamine,Chlorogenic acid,1,0.692516085
+Pyrimethamine,Citric_acid,0,1
+Pyrimethamine,Congo_red,0,1
+Pyrimethamine,D_glucose,0,1
+Pyrimethamine,D(-)-Tartaric acid,0,1
+Pyrimethamine,Dopamine hydrochloride,0,1
+Pyrimethamine,EGCG,0,1
+Pyrimethamine,Evans_Blue,0,1
+Pyrimethamine,Gallic_acid,1,0.291455017
+Pyrimethamine,Glutathione,1,0.611355683
+Pyrimethamine,Glycerol,0,1
+Pyrimethamine,Glycyrrhizic_acid,0,1
+Pyrimethamine,L_Ascorbic_acid,1,0.342928096
+Pyrimethamine,L_Leucine,0,1
+Pyrimethamine,Lamivudine,0,1
+Pyrimethamine,Meglumine,0,1
+Pyrimethamine,Metformin hydrochloride,0,1
+Pyrimethamine,Methylene_Blue_trihydrate,0,1
+Pyrimethamine,Naproxen_sodium,0,1
+Pyrimethamine,Nicotinic_acid,1,0.373969974
+Pyrimethamine,Potassium_sorbate,0,1
+Pyrimethamine,Procyanidin,0,1
+Pyrimethamine,SAFFLOWER YELLOW,0,1
+Pyrimethamine,Salidroside,0,1
+Pyrimethamine,Sorbitol,1,0.672649283
+Pyrimethamine,Sucrose,0,1
+Pyrimethamine,Tannic_acid,0,1
+Pyrimethamine,Tartrazine,0,1
+Pyrimethamine,Taurine,0,1
+Pyrimethamine,Triethyl_citrate,0,1
+Pyrimethamine,Vanillin,0,0.863415735
+Pyrimethamine,Xylitol,0,1
+Quercetin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Quercetin,Alizarin_Red_S,0,1
+Quercetin,Allura Red AC,0,1
+Quercetin,Ampicillin,0,1
+Quercetin,Betaine,0,1
+Quercetin,BETANIN,0,1
+Quercetin,Brilliant_blue_G,1,0.10662
+Quercetin,Caffeic acid,0,1
+Quercetin,Capecitabine,0,1
+Quercetin,Carmin,0,1
+Quercetin,Chlorogenic acid,0,1
+Quercetin,Citric_acid,0,1
+Quercetin,Congo_red,0,1
+Quercetin,D_glucose,0,1
+Quercetin,D(-)-Tartaric acid,0,1
+Quercetin,Dopamine hydrochloride,0,1
+Quercetin,EGCG,0,1
+Quercetin,Evans_Blue,0,1
+Quercetin,Gallic_acid,0,1
+Quercetin,Glutathione,0,1
+Quercetin,Glycerol,0,1
+Quercetin,Glycyrrhizic_acid,0,1
+Quercetin,L_Ascorbic_acid,0,1
+Quercetin,L_Leucine,0,1
+Quercetin,Lamivudine,0,1
+Quercetin,Meglumine,0,1
+Quercetin,Metformin hydrochloride,0,1
+Quercetin,Methylene_Blue_trihydrate,0,1
+Quercetin,Naproxen_sodium,0,1
+Quercetin,Nicotinic_acid,0,1
+Quercetin,Potassium_sorbate,0,1
+Quercetin,Procyanidin,0,1
+Quercetin,SAFFLOWER YELLOW,0,1
+Quercetin,Salidroside,0,1
+Quercetin,Sorbitol,0,1
+Quercetin,Sucrose,0,1
+Quercetin,Tannic_acid,0,1
+Quercetin,Tartrazine,0,1
+Quercetin,Taurine,0,1
+Quercetin,Triethyl_citrate,0,1
+Quercetin,Vanillin,0,1
+Quercetin,Xylitol,0,1
+Rapamycin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Rapamycin,Alizarin_Red_S,0,1
+Rapamycin,Allura Red AC,0,1
+Rapamycin,Ampicillin,0,1
+Rapamycin,Betaine,0,0.932922128
+Rapamycin,BETANIN,0,0.99383192
+Rapamycin,Brilliant_blue_G,0,1
+Rapamycin,Caffeic acid,0,1
+Rapamycin,Capecitabine,0,1
+Rapamycin,Carmin,0,1
+Rapamycin,Chlorogenic acid,0,1
+Rapamycin,Citric_acid,0,1
+Rapamycin,Congo_red,0,1
+Rapamycin,D_glucose,0,0.961449499
+Rapamycin,D(-)-Tartaric acid,0,1
+Rapamycin,Dopamine hydrochloride,0,1
+Rapamycin,EGCG,0,1
+Rapamycin,Evans_Blue,0,1
+Rapamycin,Gallic_acid,0,1
+Rapamycin,Glutathione,0,1
+Rapamycin,Glycerol,0,1
+Rapamycin,Glycyrrhizic_acid,0,0.872012336
+Rapamycin,L_Ascorbic_acid,0,1
+Rapamycin,L_Leucine,0,1
+Rapamycin,Lamivudine,0,1
+Rapamycin,Meglumine,0,1
+Rapamycin,Metformin hydrochloride,0,1
+Rapamycin,Methylene_Blue_trihydrate,0,1
+Rapamycin,Naproxen_sodium,0,1
+Rapamycin,Nicotinic_acid,0,0.949884348
+Rapamycin,Potassium_sorbate,0,1
+Rapamycin,Procyanidin,0,0.98380879
+Rapamycin,SAFFLOWER YELLOW,0,1
+Rapamycin,Salidroside,0,0.959136469
+Rapamycin,Sorbitol,0,1
+Rapamycin,Sucrose,0,1
+Rapamycin,Tannic_acid,0,1
+Rapamycin,Tartrazine,0,1
+Rapamycin,Taurine,0,1
+Rapamycin,Triethyl_citrate,0,1
+Rapamycin,Vanillin,0,1
+Rapamycin,Xylitol,0,1
+Resveratrol,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Resveratrol,Alizarin_Red_S,0,1
+Resveratrol,Allura Red AC,0,1
+Resveratrol,Ampicillin,0,1
+Resveratrol,Betaine,0,1
+Resveratrol,BETANIN,0,1
+Resveratrol,Brilliant_blue_G,1,0.109819193
+Resveratrol,Caffeic acid,0,1
+Resveratrol,Capecitabine,0,1
+Resveratrol,Carmin,0,1
+Resveratrol,Chlorogenic acid,0,1
+Resveratrol,Citric_acid,0,1
+Resveratrol,Congo_red,0,1
+Resveratrol,D_glucose,0,1
+Resveratrol,D(-)-Tartaric acid,0,1
+Resveratrol,Dopamine hydrochloride,0,1
+Resveratrol,EGCG,0,1
+Resveratrol,Evans_Blue,1,0.024787204
+Resveratrol,Gallic_acid,0,1
+Resveratrol,Glutathione,0,1
+Resveratrol,Glycerol,0,1
+Resveratrol,Glycyrrhizic_acid,0,1
+Resveratrol,L_Ascorbic_acid,0,1
+Resveratrol,L_Leucine,0,1
+Resveratrol,Lamivudine,0,1
+Resveratrol,Meglumine,0,1
+Resveratrol,Metformin hydrochloride,0,1
+Resveratrol,Naproxen_sodium,0,1
+Resveratrol,Nicotinic_acid,0,1
+Resveratrol,Potassium_sorbate,0,1
+Resveratrol,Procyanidin,0,1
+Resveratrol,SAFFLOWER YELLOW,1,0.070236439
+Resveratrol,Salidroside,0,1
+Resveratrol,Sorbitol,0,1
+Resveratrol,Sucrose,0,1
+Resveratrol,Tannic_acid,1,0.269151599
+Resveratrol,Tartrazine,0,1
+Resveratrol,Taurine,0,1
+Resveratrol,Triethyl_citrate,0,1
+Resveratrol,Vanillin,0,1
+Resveratrol,Xylitol,0,1
+Ginsenoside_Rg3,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Ginsenoside_Rg3,Alizarin_Red_S,0,1
+Ginsenoside_Rg3,Allura Red AC,0,1
+Ginsenoside_Rg3,Ampicillin,0,1
+Ginsenoside_Rg3,Betaine,0,1
+Ginsenoside_Rg3,BETANIN,0,1
+Ginsenoside_Rg3,Brilliant_blue_G,1,0.119450576
+Ginsenoside_Rg3,Caffeic acid,0,1
+Ginsenoside_Rg3,Capecitabine,0,1
+Ginsenoside_Rg3,Carmin,0,1
+Ginsenoside_Rg3,Chlorogenic acid,0,1
+Ginsenoside_Rg3,Citric_acid,0,1
+Ginsenoside_Rg3,Congo_red,0,1
+Ginsenoside_Rg3,D_glucose,0,1
+Ginsenoside_Rg3,D(-)-Tartaric acid,0,1
+Ginsenoside_Rg3,Dopamine hydrochloride,0,1
+Ginsenoside_Rg3,EGCG,1,0.037110621
+Ginsenoside_Rg3,Gallic_acid,0,1
+Ginsenoside_Rg3,Glutathione,0,1
+Ginsenoside_Rg3,Glycerol,0,1
+Ginsenoside_Rg3,Glycyrrhizic_acid,0,1
+Ginsenoside_Rg3,L_Ascorbic_acid,0,1
+Ginsenoside_Rg3,L_Leucine,0,1
+Ginsenoside_Rg3,Lamivudine,0,1
+Ginsenoside_Rg3,Meglumine,0,1
+Ginsenoside_Rg3,Metformin hydrochloride,0,1
+Ginsenoside_Rg3,Methylene_Blue_trihydrate,0,1
+Ginsenoside_Rg3,Naproxen_sodium,0,1
+Ginsenoside_Rg3,Nicotinic_acid,0,1
+Ginsenoside_Rg3,Potassium_sorbate,0,1
+Ginsenoside_Rg3,Procyanidin,0,1
+Ginsenoside_Rg3,SAFFLOWER YELLOW,0,1
+Ginsenoside_Rg3,Salidroside,0,1
+Ginsenoside_Rg3,Sorbitol,0,1
+Ginsenoside_Rg3,Sucrose,0,1
+Ginsenoside_Rg3,Tannic_acid,1,0.043855776
+Ginsenoside_Rg3,Tartrazine,0,1
+Ginsenoside_Rg3,Taurine,0,1
+Ginsenoside_Rg3,Triethyl_citrate,0,1
+Ginsenoside_Rg3,Vanillin,0,1
+Ginsenoside_Rg3,Xylitol,0,1
+Rutin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Rutin,Alizarin_Red_S,0,1
+Rutin,Allura Red AC,0,1
+Rutin,Ampicillin,0,1
+Rutin,Betaine,0,1
+Rutin,BETANIN,0,1
+Rutin,Brilliant_blue_G,0,1
+Rutin,Caffeic acid,0,1
+Rutin,Capecitabine,0,1
+Rutin,Carmin,0,1
+Rutin,Chlorogenic acid,0,1
+Rutin,Citric_acid,0,1
+Rutin,Congo_red,0,1
+Rutin,D_glucose,0,1
+Rutin,D(-)-Tartaric acid,0,1
+Rutin,Dopamine hydrochloride,0,1
+Rutin,EGCG,0,1
+Rutin,Evans_Blue,0,1
+Rutin,Gallic_acid,0,0.781944444
+Rutin,Glutathione,0,1
+Rutin,Glycerol,0,1
+Rutin,Glycyrrhizic_acid,0,1
+Rutin,L_Ascorbic_acid,1,0.730208333
+Rutin,L_Leucine,0,1
+Rutin,Lamivudine,0,1
+Rutin,Meglumine,0,1
+Rutin,Metformin hydrochloride,0,1
+Rutin,Methylene_Blue_trihydrate,0,1
+Rutin,Naproxen_sodium,0,1
+Rutin,Nicotinic_acid,0,0.880208333
+Rutin,Potassium_sorbate,0,1
+Rutin,Procyanidin,0,1
+Rutin,SAFFLOWER YELLOW,0,1
+Rutin,Salidroside,0,1
+Rutin,Sorbitol,0,1
+Rutin,Sucrose,0,1
+Rutin,Tannic_acid,1,0.579166667
+Rutin,Tartrazine,0,1
+Rutin,Taurine,0,1
+Rutin,Triethyl_citrate,0,1
+Rutin,Vanillin,0,1
+Rutin,Xylitol,0,1
+Retinoic_acid,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,0.863055386
+Retinoic_acid,Alizarin_Red_S,0,1
+Retinoic_acid,Allura Red AC,0,1
+Retinoic_acid,Ampicillin,0,0.93974437
+Retinoic_acid,Betaine,0,0.923311016
+Retinoic_acid,BETANIN,0,1
+Retinoic_acid,Brilliant_blue_G,0,0.760803408
+Retinoic_acid,Caffeic acid,1,0.720632988
+Retinoic_acid,Capecitabine,0,1
+Retinoic_acid,Carmin,0,1
+Retinoic_acid,Chlorogenic acid,0,1
+Retinoic_acid,Citric_acid,0,1
+Retinoic_acid,Congo_red,0,1
+Retinoic_acid,D_glucose,0,1
+Retinoic_acid,D(-)-Tartaric acid,0,1
+Retinoic_acid,Dopamine hydrochloride,0,1
+Retinoic_acid,EGCG,0,1
+Retinoic_acid,Evans_Blue,0,1
+Retinoic_acid,Gallic_acid,0,1
+Retinoic_acid,Glutathione,0,1
+Retinoic_acid,Glycerol,0,0.775410834
+Retinoic_acid,Glycyrrhizic_acid,0,0.905660377
+Retinoic_acid,L_Ascorbic_acid,0,1
+Retinoic_acid,L_Leucine,0,1
+Retinoic_acid,Lamivudine,0,0.839926963
+Retinoic_acid,Meglumine,0,1
+Retinoic_acid,Metformin hydrochloride,0,1
+Retinoic_acid,Methylene_Blue_trihydrate,0,1
+Retinoic_acid,Naproxen_sodium,0,1
+Retinoic_acid,Nicotinic_acid,0,1
+Retinoic_acid,Potassium_sorbate,0,0.939135727
+Retinoic_acid,Procyanidin,0,1
+Retinoic_acid,SAFFLOWER YELLOW,0,0.934266586
+Retinoic_acid,Salidroside,0,1
+Retinoic_acid,Sorbitol,0,1
+Retinoic_acid,Sucrose,0,1
+Retinoic_acid,Tannic_acid,0,1
+Retinoic_acid,Tartrazine,0,1
+Retinoic_acid,Taurine,0,1
+Retinoic_acid,Triethyl_citrate,0,0.882531954
+Retinoic_acid,Vanillin,0,0.808886184
+Retinoic_acid,Xylitol,0,1
+Rotenone,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,1,0.146299722
+Rotenone,Alizarin_Red_S,1,0.107770583
+Rotenone,Allura Red AC,0,1
+Rotenone,Ampicillin,0,1
+Rotenone,Betaine,0,1
+Rotenone,BETANIN,0,1
+Rotenone,Brilliant_blue_G,1,0.072987974
+Rotenone,Caffeic acid,0,1
+Rotenone,Capecitabine,0,1
+Rotenone,Carmin,0,1
+Rotenone,Chlorogenic acid,0,1
+Rotenone,Citric_acid,0,1
+Rotenone,Congo_red,1,0.077983349
+Rotenone,D_glucose,0,1
+Rotenone,D(-)-Tartaric acid,0,1
+Rotenone,Dopamine hydrochloride,0,1
+Rotenone,EGCG,0,1
+Rotenone,Evans_Blue,1,0.123681776
+Rotenone,Gallic_acid,0,1
+Rotenone,Glutathione,0,1
+Rotenone,Glycerol,1,0.160823312
+Rotenone,Glycyrrhizic_acid,1,0.066790009
+Rotenone,L_Ascorbic_acid,0,1
+Rotenone,L_Leucine,0,1
+Rotenone,Lamivudine,1,0.140980574
+Rotenone,Meglumine,1,0.12826087
+Rotenone,Metformin hydrochloride,0,1
+Rotenone,Methylene_Blue_trihydrate,0,1
+Rotenone,Naproxen_sodium,1,0.158788159
+Rotenone,Nicotinic_acid,0,1
+Rotenone,Potassium_sorbate,0,1
+Rotenone,Procyanidin,1,0.069565217
+Rotenone,SAFFLOWER YELLOW,1,0.07599445
+Rotenone,Salidroside,0,1
+Rotenone,Sorbitol,0,1
+Rotenone,Sucrose,1,0.142691952
+Rotenone,Tannic_acid,0,1
+Rotenone,Tartrazine,0,1
+Rotenone,Taurine,0,1
+Rotenone,Triethyl_citrate,0,1
+Rotenone,Vanillin,1,0.18279371
+Rotenone,Xylitol,0,1
+Sulfasalazine,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Sulfasalazine,Alizarin_Red_S,0,1
+Sulfasalazine,Allura Red AC,0,1
+Sulfasalazine,Ampicillin,0,1
+Sulfasalazine,Betaine,0,1
+Sulfasalazine,BETANIN,0,1
+Sulfasalazine,Brilliant_blue_G,1,0.033882436
+Sulfasalazine,Caffeic acid,0,1
+Sulfasalazine,Capecitabine,0,1
+Sulfasalazine,Carmin,0,1
+Sulfasalazine,Chlorogenic acid,0,1
+Sulfasalazine,Citric_acid,0,1
+Sulfasalazine,Congo_red,1,0.118655403
+Sulfasalazine,D_glucose,0,1
+Sulfasalazine,D(-)-Tartaric acid,0,1
+Sulfasalazine,Dopamine hydrochloride,0,1
+Sulfasalazine,EGCG,0,1
+Sulfasalazine,Gallic_acid,0,1
+Sulfasalazine,Glutathione,0,1
+Sulfasalazine,Glycerol,0,1
+Sulfasalazine,Glycyrrhizic_acid,1,0.347060894
+Sulfasalazine,L_Ascorbic_acid,0,1
+Sulfasalazine,L_Leucine,0,1
+Sulfasalazine,Lamivudine,0,1
+Sulfasalazine,Meglumine,1,0.014533615
+Sulfasalazine,Metformin hydrochloride,0,1
+Sulfasalazine,Methylene_Blue_trihydrate,0,1
+Sulfasalazine,Naproxen_sodium,0,1
+Sulfasalazine,Nicotinic_acid,0,1
+Sulfasalazine,Potassium_sorbate,0,1
+Sulfasalazine,Procyanidin,0,1
+Sulfasalazine,SAFFLOWER YELLOW,0,1
+Sulfasalazine,Salidroside,0,1
+Sulfasalazine,Sorbitol,0,1
+Sulfasalazine,Sucrose,0,1
+Sulfasalazine,Tannic_acid,0,1
+Sulfasalazine,Tartrazine,0,1
+Sulfasalazine,Taurine,0,1
+Sulfasalazine,Triethyl_citrate,0,1
+Sulfasalazine,Vanillin,0,1
+Sulfasalazine,Xylitol,0,1
+Sophoricoside,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Sophoricoside,Alizarin_Red_S,0,1
+Sophoricoside,Allura Red AC,0,1
+Sophoricoside,Ampicillin,0,1
+Sophoricoside,Betaine,0,1
+Sophoricoside,BETANIN,0,1
+Sophoricoside,Brilliant_blue_G,0,1
+Sophoricoside,Caffeic acid,0,1
+Sophoricoside,Capecitabine,0,1
+Sophoricoside,Carmin,0,1
+Sophoricoside,Chlorogenic acid,0,1
+Sophoricoside,Citric_acid,0,1
+Sophoricoside,Congo_red,0,1
+Sophoricoside,D_glucose,0,1
+Sophoricoside,D(-)-Tartaric acid,0,1
+Sophoricoside,Dopamine hydrochloride,0,1
+Sophoricoside,EGCG,0,1
+Sophoricoside,Evans_Blue,0,1
+Sophoricoside,Gallic_acid,0,1
+Sophoricoside,Glutathione,0,1
+Sophoricoside,Glycerol,0,1
+Sophoricoside,Glycyrrhizic_acid,0,1
+Sophoricoside,L_Ascorbic_acid,0,1
+Sophoricoside,L_Leucine,0,1
+Sophoricoside,Lamivudine,0,1
+Sophoricoside,Meglumine,0,1
+Sophoricoside,Metformin hydrochloride,0,1
+Sophoricoside,Methylene_Blue_trihydrate,1,0.010596
+Sophoricoside,Naproxen_sodium,0,1
+Sophoricoside,Nicotinic_acid,0,1
+Sophoricoside,Potassium_sorbate,0,1
+Sophoricoside,Procyanidin,0,1
+Sophoricoside,SAFFLOWER YELLOW,0,1
+Sophoricoside,Salidroside,0,1
+Sophoricoside,Sorbitol,0,1
+Sophoricoside,Sucrose,0,1
+Sophoricoside,Tannic_acid,0,1
+Sophoricoside,Tartrazine,0,1
+Sophoricoside,Taurine,0,1
+Sophoricoside,Triethyl_citrate,0,1
+Sophoricoside,Vanillin,0,1
+Sophoricoside,Xylitol,0,1
+Sorafenib,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Sorafenib,Alizarin_Red_S,1,0.054251366
+Sorafenib,Allura Red AC,1,0.126994536
+Sorafenib,Ampicillin,0,1
+Sorafenib,Betaine,0,1
+Sorafenib,BETANIN,1,0.082459016
+Sorafenib,Brilliant_blue_G,1,0.071748634
+Sorafenib,Caffeic acid,0,1
+Sorafenib,Capecitabine,0,1
+Sorafenib,Carmin,1,0.16420765
+Sorafenib,Chlorogenic acid,0,1
+Sorafenib,Citric_acid,1,0.223825137
+Sorafenib,Congo_red,1,0.049759563
+Sorafenib,D_glucose,0,1
+Sorafenib,D(-)-Tartaric acid,1,0.281693989
+Sorafenib,Dopamine hydrochloride,0,1
+Sorafenib,EGCG,0,1
+Sorafenib,Evans_Blue,1,0.086721311
+Sorafenib,Gallic_acid,0,1
+Sorafenib,Glutathione,0,1
+Sorafenib,Glycerol,0,1
+Sorafenib,Glycyrrhizic_acid,1,0.058907104
+Sorafenib,L_Ascorbic_acid,0,1
+Sorafenib,L_Leucine,1,0.189398907
+Sorafenib,Lamivudine,1,0.215519126
+Sorafenib,Meglumine,1,0.106502732
+Sorafenib,Metformin hydrochloride,0,1
+Sorafenib,Methylene_Blue_trihydrate,1,0.155846995
+Sorafenib,Naproxen_sodium,1,0.196065574
+Sorafenib,Nicotinic_acid,0,1
+Sorafenib,Potassium_sorbate,1,0.191639344
+Sorafenib,Procyanidin,1,0.056885246
+Sorafenib,SAFFLOWER YELLOW,1,0.061967213
+Sorafenib,Salidroside,1,0.107704918
+Sorafenib,Sorbitol,0,1
+Sorafenib,Sucrose,0,1
+Sorafenib,Tannic_acid,0,1
+Sorafenib,Tartrazine,1,0.18136612
+Sorafenib,Taurine,0,1
+Sorafenib,Triethyl_citrate,0,1
+Sorafenib,Vanillin,0,1
+Sorafenib,Xylitol,0,1
+Silibinin,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Silibinin,Alizarin_Red_S,0,1
+Silibinin,Allura Red AC,0,1
+Silibinin,Ampicillin,0,1
+Silibinin,Betaine,1,0.487795276
+Silibinin,BETANIN,1,0.521259843
+Silibinin,Brilliant_blue_G,1,0.355275591
+Silibinin,Caffeic acid,0,1
+Silibinin,Capecitabine,1,0.650787402
+Silibinin,Carmin,0,1
+Silibinin,Chlorogenic acid,0,1
+Silibinin,Citric_acid,0,1
+Silibinin,Congo_red,1,0.616929134
+Silibinin,D_glucose,1,0.577559055
+Silibinin,D(-)-Tartaric acid,0,1
+Silibinin,Dopamine hydrochloride,0,1
+Silibinin,EGCG,1,0.457086614
+Silibinin,Evans_Blue,0,1
+Silibinin,Gallic_acid,0,1
+Silibinin,Glutathione,0,1
+Silibinin,Glycerol,1,0.684251969
+Silibinin,Glycyrrhizic_acid,0,1
+Silibinin,L_Ascorbic_acid,0,1
+Silibinin,L_Leucine,1,0.543307087
+Silibinin,Lamivudine,0,1
+Silibinin,Meglumine,0,1
+Silibinin,Metformin hydrochloride,0,1
+Silibinin,Methylene_Blue_trihydrate,0,0.753543307
+Silibinin,Naproxen_sodium,1,0.395275591
+Silibinin,Nicotinic_acid,0,1
+Silibinin,Potassium_sorbate,0,1
+Silibinin,Procyanidin,1,0.551968504
+Silibinin,SAFFLOWER YELLOW,1,0.499212598
+Silibinin,Salidroside,0,0.969685039
+Silibinin,Sorbitol,0,1
+Silibinin,Sucrose,0,1
+Silibinin,Tannic_acid,0,1
+Silibinin,Tartrazine,0,0.817716535
+Silibinin,Taurine,0,1
+Silibinin,Triethyl_citrate,0,1
+Silibinin,Vanillin,0,0.790551181
+Silibinin,Xylitol,0,0.796456693
+Tamoxifen,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Tamoxifen,Alizarin_Red_S,1,0.742592883
+Tamoxifen,Allura Red AC,0,0.997648534
+Tamoxifen,Ampicillin,0,1
+Tamoxifen,Betaine,1,0.67596802
+Tamoxifen,BETANIN,0,0.788838376
+Tamoxifen,Brilliant_blue_G,1,0.233265402
+Tamoxifen,Caffeic acid,1,0.477034018
+Tamoxifen,Capecitabine,1,0.608089042
+Tamoxifen,Carmin,1,0.644301615
+Tamoxifen,Chlorogenic acid,1,0.236557454
+Tamoxifen,Citric_acid,0,1
+Tamoxifen,Congo_red,0,0.964571249
+Tamoxifen,D_glucose,1,0.536447719
+Tamoxifen,D(-)-Tartaric acid,0,1
+Tamoxifen,Dopamine hydrochloride,0,1
+Tamoxifen,EGCG,1,0.278413544
+Tamoxifen,Evans_Blue,1,0.459789936
+Tamoxifen,Gallic_acid,1,0.192663427
+Tamoxifen,Glutathione,1,0.245493024
+Tamoxifen,Glycerol,0,0.891675811
+Tamoxifen,Glycyrrhizic_acid,0,1
+Tamoxifen,L_Ascorbic_acid,1,0.195798715
+Tamoxifen,L_Leucine,0,0.827559179
+Tamoxifen,Lamivudine,0,1
+Tamoxifen,Meglumine,1,0.623922245
+Tamoxifen,Metformin hydrochloride,0,1
+Tamoxifen,Methylene_Blue_trihydrate,0,1
+Tamoxifen,Naproxen_sodium,0,1
+Tamoxifen,Nicotinic_acid,1,0.223232482
+Tamoxifen,Potassium_sorbate,0,1
+Tamoxifen,Procyanidin,0,1
+Tamoxifen,SAFFLOWER YELLOW,0,1
+Tamoxifen,Salidroside,1,0.647750431
+Tamoxifen,Sorbitol,0,1
+Tamoxifen,Sucrose,0,1
+Tamoxifen,Tannic_acid,1,0.35334692
+Tamoxifen,Tartrazine,0,0.881486126
+Tamoxifen,Taurine,0,1
+Tamoxifen,Triethyl_citrate,0,0.903119611
+Tamoxifen,Vanillin,0,1
+Tamoxifen,Xylitol,0,0.994199718
+Taxol,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Taxol,Alizarin_Red_S,0,1
+Taxol,Allura Red AC,0,1
+Taxol,Ampicillin,0,1
+Taxol,Betaine,0,1
+Taxol,BETANIN,0,1
+Taxol,Brilliant_blue_G,1,0.03006
+Taxol,Caffeic acid,0,1
+Taxol,Capecitabine,0,1
+Taxol,Carmin,0,1
+Taxol,Chlorogenic acid,0,1
+Taxol,Citric_acid,0,1
+Taxol,Congo_red,1,0.0275
+Taxol,D_glucose,0,1
+Taxol,D(-)-Tartaric acid,0,1
+Taxol,Dopamine hydrochloride,0,1
+Taxol,EGCG,0,1
+Taxol,Evans_Blue,1,0.04556
+Taxol,Gallic_acid,0,1
+Taxol,Glutathione,0,1
+Taxol,Glycerol,0,1
+Taxol,Glycyrrhizic_acid,1,0.02632
+Taxol,L_Ascorbic_acid,0,1
+Taxol,L_Leucine,0,1
+Taxol,Lamivudine,0,1
+Taxol,Meglumine,0,1
+Taxol,Metformin hydrochloride,0,1
+Taxol,Methylene_Blue_trihydrate,0,1
+Taxol,Naproxen_sodium,0,1
+Taxol,Nicotinic_acid,0,1
+Taxol,Potassium_sorbate,0,1
+Taxol,Procyanidin,1,0.06816
+Taxol,SAFFLOWER YELLOW,0,1
+Taxol,Salidroside,0,1
+Taxol,Sorbitol,0,1
+Taxol,Sucrose,0,1
+Taxol,Tannic_acid,1,0.16466
+Taxol,Tartrazine,0,1
+Taxol,Taurine,0,1
+Taxol,Triethyl_citrate,0,1
+Taxol,Vanillin,0,1
+Taxol,Xylitol,0,1
+Ursolic_acid,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+Ursolic_acid,Alizarin_Red_S,0,1
+Ursolic_acid,Allura Red AC,0,1
+Ursolic_acid,Ampicillin,0,1
+Ursolic_acid,Betaine,0,1
+Ursolic_acid,BETANIN,0,1
+Ursolic_acid,Brilliant_blue_G,1,0.306857943
+Ursolic_acid,Caffeic acid,0,1
+Ursolic_acid,Capecitabine,0,1
+Ursolic_acid,Carmin,0,1
+Ursolic_acid,Chlorogenic acid,0,1
+Ursolic_acid,Citric_acid,0,1
+Ursolic_acid,Congo_red,1,0.298110567
+Ursolic_acid,D_glucose,0,1
+Ursolic_acid,D(-)-Tartaric acid,0,1
+Ursolic_acid,Dopamine hydrochloride,0,1
+Ursolic_acid,EGCG,0,1
+Ursolic_acid,Evans_Blue,1,0.38873338
+Ursolic_acid,Gallic_acid,0,1
+Ursolic_acid,Glutathione,0,1
+Ursolic_acid,Glycerol,0,1
+Ursolic_acid,Glycyrrhizic_acid,1,0.33869839
+Ursolic_acid,L_Ascorbic_acid,0,1
+Ursolic_acid,L_Leucine,0,1
+Ursolic_acid,Lamivudine,0,1
+Ursolic_acid,Meglumine,1,0.09510147
+Ursolic_acid,Metformin hydrochloride,0,1
+Ursolic_acid,Methylene_Blue_trihydrate,0,1
+Ursolic_acid,Naproxen_sodium,0,1
+Ursolic_acid,Nicotinic_acid,0,1
+Ursolic_acid,Potassium_sorbate,0,1
+Ursolic_acid,Procyanidin,1,0.372218334
+Ursolic_acid,SAFFLOWER YELLOW,1,0.502379286
+Ursolic_acid,Salidroside,0,1
+Ursolic_acid,Sorbitol,0,1
+Ursolic_acid,Sucrose,0,1
+Ursolic_acid,Tannic_acid,1,0.634149755
+Ursolic_acid,Tartrazine,0,1
+Ursolic_acid,Taurine,0,1
+Ursolic_acid,Triethyl_citrate,0,1
+Ursolic_acid,Vanillin,0,1
+Ursolic_acid,Xylitol,0,1
+VES,4-(METHOXYCARBONYL)PHENYLBORONIC ACID,0,1
+VES,Alizarin_Red_S,0,1
+VES,Allura Red AC,0,1
+VES,Ampicillin,0,0.933416515
+VES,Betaine,0,1
+VES,BETANIN,0,1
+VES,Brilliant_blue_G,0,1
+VES,Caffeic acid,0,1
+VES,Capecitabine,0,1
+VES,Carmin,0,1
+VES,Chlorogenic acid,0,1
+VES,Citric_acid,0,1
+VES,Congo_red,0,1
+VES,D_glucose,0,1
+VES,D(-)-Tartaric acid,0,1
+VES,Dopamine hydrochloride,0,1
+VES,EGCG,0,1
+VES,Evans_Blue,0,1
+VES,Gallic_acid,0,0.986274955
+VES,Glutathione,0,1
+VES,Glycerol,0,1
+VES,Glycyrrhizic_acid,0,0.925589837
+VES,L_Ascorbic_acid,0,1
+VES,L_Leucine,0,0.933983666
+VES,Lamivudine,0,1
+VES,Meglumine,1,0.698843013
+VES,Metformin hydrochloride,0,1
+VES,Methylene_Blue_trihydrate,0,1
+VES,Naproxen_sodium,0,0.998638838
+VES,Nicotinic_acid,0,1
+VES,Potassium_sorbate,0,0.984800363
+VES,Procyanidin,0,1
+VES,SAFFLOWER YELLOW,0,1
+VES,Salidroside,0,1
+VES,Sorbitol,0,1
+VES,Sucrose,0,1
+VES,Tannic_acid,0,1
+VES,Tartrazine,0,1
+VES,Taurine,0,1
+VES,Triethyl_citrate,0,1
+VES,Vanillin,0,1
+VES,Xylitol,0,1

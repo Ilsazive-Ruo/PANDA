@@ -8,16 +8,11 @@ from dgllife.utils import CanonicalBondFeaturizer, CanonicalAtomFeaturizer, MolT
 from rdkit import Chem
 import pandas as pd
 
-# ========================
-# 1. 初始化特征提取器
-# ========================
+
 atom_featurizer = CanonicalAtomFeaturizer()
 bond_featurizer = CanonicalBondFeaturizer()
 
 
-# ========================
-# 2. 将SMILES转为DGL图并提取特征
-# ========================
 def mol2dgl(mole):
     """
     将SMILES字符串转为DGL图，并提取节点和边特征

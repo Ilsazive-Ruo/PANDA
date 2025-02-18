@@ -53,12 +53,9 @@ def load_FSASet(file, g_dict):
     return graph_pairs, labels, MPs
 
 
-# 自定义的 collate_fn 函数，处理图对批次
 def collate_graph_pairs(data):
-    # 从批次中提取图对
-    g1_list, g2_list, labels, MPs = zip(*data)  # zip 解压批次
+    g1_list, g2_list, labels, MPs = zip(*data)
 
-    # 使用 DGL 的 batch 函数将多个图合并成一个图
     batched_g1 = dgl.batch(g1_list)  # 合并图 1
     batched_g2 = dgl.batch(g2_list)  # 合并图 2
     MPs =torch.stack(MPs, dim=0)

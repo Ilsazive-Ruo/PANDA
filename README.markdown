@@ -61,3 +61,7 @@ project/
 ## License
 
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📦 Supplementary Data (Molecule graph)
+The full dataset for this study is available at:
+🔗 https://doi.org/10.5281/zenodo.16038069

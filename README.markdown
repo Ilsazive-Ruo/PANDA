@@ -14,7 +14,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ilsazive-Ruo/PANDA.git
-   cd repository
+   cd PANDA
    ```
 2. Create and activate a virtual environment:
    ```bash

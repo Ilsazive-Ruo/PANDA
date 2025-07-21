@@ -139,19 +139,6 @@ if __name__ == '__main__':
                        "data/gra/SA/SA_info.pkl")
     fsa_gra_a, fsa_gra_e, fsa_labels, mcs = train.load_fsa_dataset('data/fsa_dataset.csv', g_fsa)
 
-    g_all = train.load_gdata('data/gra/SA2/SA3_dgl_graph.bin',
-                       "data/gra/SA2/SA3_info.pkl")
-    print('g_all:', g_all)
-    sa_add_gra_a, sa_add_gra_e, sa_add_labels = train.load_syn_sa_dataset('data/sa_add.csv', g_all)
-    print(len(sa_add_gra_a), len(sa_add_gra_e), len(sa_add_labels))
-    sa_add_set = train.PandaDataset(graphs_a=sa_add_gra_a,
-                                    graphs_e=sa_add_gra_e,
-                                    labels_task1=[0] * len(sa_add_gra_a),
-                                    labels_task2=sa_add_labels,
-                                    labels_task3=[0] * len(sa_add_gra_a),
-                                    extra_feats=torch.zeros(len(sa_add_gra_a), 4),
-                                    task_ids=[1] * len(sa_add_gra_a))
-
     syn_set = train.PandaDataset(graphs_a=syn_gra_a,
                                  graphs_e=syn_gra_e,
                                  labels_task1=syn_labels,

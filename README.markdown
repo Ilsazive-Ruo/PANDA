@@ -26,10 +26,7 @@
    pip install -r requirements.txt
    ```
 
-## Usage
-Explain how to run the code, including examples:
-
-- **Task Definitions**:
+##Task Definitions
 This repository includes multiple prediction tasks aligned with those described in the associated publication. The tasks and their corresponding labels in the code are as follows:
 
 - **SYN and PV**:
@@ -38,6 +35,9 @@ Correspond to the Pharmacological Prediction tasks, referred to as the PP set in
 Refers to the API–Excipient Design task.
 - **FSA**:
 Refers to the Manufacturing Optimization task.
+
+## Usage
+Explain how to run the code, including examples:
 
 - **Training**:
   ```bash

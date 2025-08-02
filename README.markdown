@@ -26,7 +26,7 @@
    pip install -r requirements.txt
    ```
 
-##Task Definitions
+## Task Definitions
 This repository includes multiple prediction tasks aligned with those described in the associated publication. The tasks and their corresponding labels in the code are as follows:
 
 - **SYN and PV**:
